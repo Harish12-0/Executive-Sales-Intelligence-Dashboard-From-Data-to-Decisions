@@ -1,0 +1,1201 @@
+Order Date,Region,State,Segment,Ship Mode,Gross Sales,Profit Margin,COGS,Net,Profit,Year,Month
+2014-05-11,East,New Mexico,Corporate,Standard Class,112.2,14.15,89.4,136.63,22.8,2014,2014-05
+2017-02-04,Central,Minnesota,Corporate,Standard Class,112.37,14.1,88.25,124.98,24.12,2017,2017-02
+2016-08-14,South,Florida,Corporate,Standard Class,109.75,18.73,80.04,122.19,29.71,2016,2016-08
+2015-10-04,Central,Minnesota,Home Office,Standard Class,104.31,22.97,65.14,123.87,39.17,2015,2015-10
+2015-09-25,South,Tennessee,Corporate,First Class,64.03,16.45,46.9,71.16,17.13,2015,2015-09
+2017-06-08,Central,Texas,Consumer,Standard Class,53.23,25.29,33.58,55.97,19.65,2017,2017-06
+2014-05-06,South,Georgia,Corporate,Standard Class,161.46,19.36,110.45,162.41,51.01,2014,2014-05
+2016-10-15,West,Nevada,Consumer,Standard Class,115.12,13.14,85.85,121.02,29.27,2016,2016-10
+2014-10-22,Central,Minnesota,Consumer,Standard Class,488.38,18.99,391.97,517.19,96.41,2014,2014-10
+2014-05-18,East,Alabama,Home Office,Standard Class,244.48,23.81,169.07,243.09,75.41,2014,2014-05
+2016-02-09,East,New Mexico,Corporate,Second Class,238.77,25.42,189.11,245.75,49.66,2016,2016-02
+2017-11-26,Central,Minnesota,Home Office,Standard Class,101.33,20.96,81.44,118.63,19.89,2017,2017-11
+2016-12-10,South,Virginia,Consumer,Second Class,171.94,14.57,107.33,174.8,64.61,2016,2016-12
+2017-01-17,South,Florida,Corporate,First Class,259.01,13.24,172.99,222.81,86.02,2017,2017-01
+2016-11-14,West,Nevada,Consumer,Second Class,350.29,17.6,266.91,337.4,83.38,2016,2016-11
+2017-02-22,Central,Colorado,Consumer,Second Class,175.95,23.64,135.72,165.87,40.23,2017,2017-02
+2016-01-20,Central,Texas,Consumer,Standard Class,476.88,16.82,333.09,556.73,143.79,2016,2016-01
+2014-07-07,East,New Mexico,Corporate,Standard Class,191.86,16.93,144.15,197.56,47.71,2014,2014-07
+2017-05-11,West,Oregon,Consumer,Standard Class,373.87,14.71,277.57,359.71,96.3,2017,2017-05
+2015-10-21,West,California,Home Office,Same Day,125.67,12.63,96.51,147.57,29.16,2015,2015-10
+2016-01-02,Central,Missouri,Consumer,Second Class,40.83,13.54,31.18,35.02,9.65,2016,2016-01
+2015-06-26,East,Maryland,Consumer,Standard Class,239.39,15.17,152.53,220.17,86.86,2015,2015-06
+2014-09-24,South,Georgia,Corporate,Standard Class,353.02,23.88,230.05,416.84,122.97,2014,2014-09
+2017-09-16,East,New Mexico,Consumer,First Class,310.77,13.11,200.93,332.6,109.84,2017,2017-09
+2017-02-15,South,Tennessee,Home Office,Second Class,272.83,14.72,220.04,316.34,52.79,2017,2017-02
+2016-07-29,East,Alabama,Corporate,Standard Class,141.7,9.67,113.74,167.95,27.96,2016,2016-07
+2015-08-11,Central,Minnesota,Consumer,First Class,95.99,18.37,74.82,117.76,21.17,2015,2015-08
+2017-04-17,West,Washington,Corporate,Second Class,304.59,21.95,195.96,266.63,108.63,2017,2017-04
+2016-03-07,East,District of Columbia,Corporate,Second Class,273.82,23.36,201.22,320.29,72.6,2016,2016-03
+2015-10-10,Central,Missouri,Corporate,Standard Class,118.3,15.55,77.78,134.09,40.52,2015,2015-10
+2015-10-21,South,North Carolina,Home Office,Standard Class,489.32,17.59,339.43,456.44,149.89,2015,2015-10
+2014-11-28,South,North Carolina,Corporate,Same Day,89.98,13.59,60.59,110.02,29.39,2014,2014-11
+2014-05-15,West,California,Corporate,Second Class,116.05,17.33,91.19,117.41,24.86,2014,2014-05
+2016-03-21,East,Alabama,Consumer,Standard Class,765.83,16.16,496.94,922.86,268.89,2016,2016-03
+2017-07-21,West,Arizona,Corporate,Second Class,398.73,14.75,298.74,435.43,99.99,2017,2017-07
+2014-04-04,West,Oregon,Home Office,Standard Class,140.57,15.19,114.81,149.1,25.76,2014,2014-04
+2017-06-07,Central,Colorado,Corporate,First Class,243.29,16.92,184.27,222.32,59.02,2017,2017-06
+2017-04-24,Central,Colorado,Corporate,Standard Class,217.36,12.81,138.21,264.25,79.15,2017,2017-04
+2015-02-09,Central,Texas,Consumer,First Class,18.47,13.1,14.8,19.81,3.67,2015,2015-02
+2016-07-11,South,Virginia,Corporate,Standard Class,88.19,23.82,66.02,75.18,22.17,2016,2016-07
+2014-08-30,Central,Minnesota,Home Office,Standard Class,182.51,29.34,129.81,156.47,52.7,2014,2014-08
+2017-01-12,Central,Missouri,Consumer,Standard Class,140.74,7.81,105.83,163.41,34.91,2017,2017-01
+2016-10-20,West,Arizona,Consumer,First Class,235.11,7.5,187.1,215.07,48.01,2016,2016-10
+2015-06-02,West,Oregon,Corporate,Standard Class,497.73,9.17,356.09,542.27,141.64,2015,2015-06
+2014-04-10,Central,Missouri,Consumer,Standard Class,144.99,13.86,105.3,162.74,39.69,2014,2014-04
+2017-11-19,South,North Carolina,Corporate,Second Class,77.56,19.36,55.11,74.59,22.45,2017,2017-11
+2015-10-14,West,Nevada,Consumer,Standard Class,251.17,17.68,159.37,270.69,91.8,2015,2015-10
+2017-07-28,East,Alabama,Consumer,Standard Class,144.37,15.38,112.24,136.59,32.13,2017,2017-07
+2016-09-17,Central,Missouri,Corporate,Standard Class,166.89,17.34,107.69,205.03,59.2,2016,2016-09
+2017-02-11,West,Nevada,Corporate,First Class,148.71,10.62,103.94,177.57,44.77,2017,2017-02
+2017-01-15,East,New York,Corporate,Standard Class,1281.21,13.09,893.47,1236.65,387.74,2017,2017-01
+2014-10-12,South,Florida,Corporate,Standard Class,28.37,14.32,19.18,30.12,9.19,2014,2014-10
+2015-06-16,Central,Colorado,Corporate,Standard Class,136.99,5.72,95.96,143.87,41.03,2015,2015-06
+2015-11-13,West,Oregon,Corporate,Standard Class,189.97,8.04,141.26,234.42,48.71,2015,2015-11
+2015-12-29,South,Virginia,Corporate,Standard Class,98.1,8.26,66.93,98.85,31.17,2015,2015-12
+2014-03-05,East,New Mexico,Corporate,Standard Class,409.47,18.63,268.0,440.14,141.47,2014,2014-03
+2016-03-09,South,North Carolina,Corporate,Standard Class,380.42,15.78,302.01,464.68,78.41,2016,2016-03
+2014-08-14,West,Arizona,Consumer,Standard Class,182.99,17.79,148.98,167.46,34.01,2014,2014-08
+2016-12-22,East,Maryland,Consumer,First Class,151.4,4.31,107.75,162.03,43.65,2016,2016-12
+2016-09-24,East,New Mexico,Corporate,Standard Class,173.27,6.27,118.76,154.6,54.51,2016,2016-09
+2017-09-09,West,Oregon,Home Office,Standard Class,174.33,18.08,109.74,191.24,64.59,2017,2017-09
+2016-12-24,South,North Carolina,Corporate,First Class,178.28,-0.85,111.85,177.62,66.43,2016,2016-12
+2015-06-20,West,Arizona,Consumer,First Class,162.42,21.17,113.46,200.92,48.96,2015,2015-06
+2017-11-14,West,Arizona,Corporate,Second Class,236.18,4.4,190.37,240.0,45.81,2017,2017-11
+2015-08-24,East,New Mexico,Consumer,Standard Class,361.49,19.07,276.95,326.96,84.54,2015,2015-08
+2015-04-22,Central,Colorado,Corporate,Standard Class,66.97,9.54,46.2,79.27,20.77,2015,2015-04
+2017-08-15,Central,Colorado,Home Office,Standard Class,78.02,20.2,63.48,91.93,14.54,2017,2017-08
+2015-06-26,South,Florida,Corporate,Standard Class,43.11,32.07,30.42,48.63,12.69,2015,2015-06
+2014-04-22,West,Oregon,Corporate,Standard Class,397.99,1.93,268.79,457.5,129.2,2014,2014-04
+2015-11-18,East,Maryland,Consumer,Standard Class,235.75,18.25,166.27,225.35,69.48,2015,2015-11
+2017-03-08,West,California,Consumer,Standard Class,292.8,4.49,193.92,324.08,98.88,2017,2017-03
+2014-10-04,East,New York,Home Office,Second Class,56.54,16.78,45.07,48.92,11.47,2014,2014-10
+2015-11-08,South,North Carolina,Corporate,Standard Class,868.88,13.29,601.47,806.98,267.41,2015,2015-11
+2014-07-09,Central,Texas,Consumer,Standard Class,113.58,15.14,85.37,138.9,28.21,2014,2014-07
+2016-09-29,East,Alabama,Consumer,Second Class,219.86,9.42,153.42,251.89,66.44,2016,2016-09
+2015-11-27,East,New Mexico,Consumer,First Class,393.95,18.72,315.3,371.21,78.65,2015,2015-11
+2015-04-28,South,Georgia,Consumer,Standard Class,82.36,6.46,61.64,73.68,20.72,2015,2015-04
+2014-11-28,East,Alabama,Consumer,Standard Class,119.78,21.26,85.96,147.28,33.82,2014,2014-11
+2016-04-04,West,Oregon,Consumer,Standard Class,221.92,12.18,143.46,198.59,78.46,2016,2016-04
+2016-09-05,East,Alabama,Home Office,Standard Class,2162.14,6.72,1730.54,2060.15,431.6,2016,2016-09
+2017-10-05,West,Nevada,Consumer,Second Class,246.15,23.2,179.53,227.21,66.62,2017,2017-10
+2015-10-01,West,California,Consumer,Standard Class,746.51,14.06,505.4,636.76,241.11,2015,2015-10
+2014-08-23,West,Washington,Consumer,Standard Class,531.03,24.92,422.48,518.1,108.55,2014,2014-08
+2017-05-01,East,New Mexico,Consumer,Standard Class,260.55,21.15,164.38,323.0,96.17,2017,2017-05
+2016-07-09,Central,Missouri,Corporate,Standard Class,82.2,10.04,56.13,81.11,26.07,2016,2016-07
+2016-10-20,East,New York,Consumer,Standard Class,469.09,13.96,341.2,493.35,127.89,2016,2016-10
+2014-05-23,East,New York,Corporate,Standard Class,53.34,15.1,36.7,61.25,16.64,2014,2014-05
+2015-04-02,South,Tennessee,Corporate,Same Day,743.04,22.82,531.53,795.37,211.51,2015,2015-04
+2017-01-26,Central,Missouri,Consumer,Second Class,225.88,16.84,151.99,259.18,73.89,2017,2017-01
+2017-04-30,East,New York,Corporate,Standard Class,20.03,15.4,12.94,22.33,7.09,2017,2017-04
+2015-09-28,West,Oregon,Home Office,Standard Class,142.68,13.33,89.51,156.01,53.17,2015,2015-09
+2017-03-21,South,Virginia,Consumer,Second Class,332.24,14.15,216.46,368.74,115.78,2017,2017-03
+2017-05-14,West,California,Consumer,Standard Class,155.79,21.61,126.28,182.22,29.51,2017,2017-05
+2015-07-21,East,Maryland,Home Office,Standard Class,349.94,14.45,257.23,396.86,92.71,2015,2015-07
+2017-08-05,South,Georgia,Home Office,Second Class,92.53,12.26,66.42,107.96,26.11,2017,2017-08
+2015-02-26,East,Alabama,Corporate,Standard Class,62.8,11.33,43.76,57.04,19.04,2015,2015-02
+2014-12-16,Central,Illinois,Corporate,Standard Class,179.34,11.38,136.6,201.05,42.74,2014,2014-12
+2016-09-24,East,New Mexico,Consumer,Standard Class,195.75,6.72,126.9,224.1,68.85,2016,2016-09
+2016-07-19,Central,Illinois,Corporate,Standard Class,141.72,10.3,95.69,137.47,46.03,2016,2016-07
+2014-07-24,West,Nevada,Consumer,Standard Class,540.88,22.67,406.3,648.96,134.58,2014,2014-07
+2017-05-01,West,California,Consumer,First Class,92.51,13.29,66.22,89.91,26.29,2017,2017-05
+2014-10-20,East,Maryland,Corporate,Standard Class,248.69,18.3,192.49,235.64,56.2,2014,2014-10
+2017-03-21,West,Washington,Home Office,Standard Class,201.9,0.8,161.4,241.64,40.5,2017,2017-03
+2014-01-11,South,Tennessee,Home Office,Second Class,50.74,17.56,39.81,48.14,10.93,2014,2014-01
+2017-03-10,West,Arizona,Consumer,Standard Class,62.1,13.54,40.79,63.11,21.31,2017,2017-03
+2017-02-23,East,New Mexico,Consumer,Standard Class,192.51,11.78,122.88,191.97,69.63,2017,2017-02
+2017-02-14,Central,Texas,Home Office,Standard Class,1026.61,15.43,671.29,1241.4,355.32,2017,2017-02
+2016-08-29,Central,Minnesota,Home Office,Second Class,311.81,11.7,242.18,321.82,69.63,2016,2016-08
+2015-11-20,East,New Mexico,Corporate,Standard Class,43.96,2.75,35.29,49.57,8.67,2015,2015-11
+2016-10-27,East,District of Columbia,Corporate,Second Class,13.55,19.5,10.91,15.82,2.64,2016,2016-10
+2015-02-09,South,Georgia,Consumer,First Class,355.35,15.77,241.51,391.3,113.84,2015,2015-02
+2017-02-14,Central,Missouri,Consumer,Second Class,175.6,12.7,138.38,215.55,37.22,2017,2017-02
+2016-03-22,Central,Missouri,Consumer,Same Day,502.74,9.12,365.62,588.71,137.12,2016,2016-03
+2015-11-02,South,Georgia,Consumer,Second Class,90.14,6.35,70.72,91.05,19.42,2015,2015-11
+2016-01-09,Central,Minnesota,Consumer,First Class,256.64,15.66,187.26,315.75,69.38,2016,2016-01
+2016-04-10,West,Washington,Home Office,First Class,391.21,23.3,253.97,414.62,137.24,2016,2016-04
+2014-02-24,East,Maryland,Consumer,Second Class,130.28,15.55,82.84,111.91,47.44,2014,2014-02
+2014-07-24,West,Washington,Consumer,First Class,132.67,6.82,107.65,126.57,25.02,2014,2014-07
+2014-12-25,Central,Minnesota,Corporate,First Class,194.7,15.67,137.29,213.92,57.41,2014,2014-12
+2014-06-17,South,Georgia,Consumer,Standard Class,302.26,14.14,208.59,275.88,93.67,2014,2014-06
+2015-10-05,East,Alabama,Consumer,Second Class,188.26,19.18,130.14,204.0,58.12,2015,2015-10
+2016-09-03,East,New Mexico,Corporate,Standard Class,436.11,17.77,303.44,433.77,132.67,2016,2016-09
+2016-08-14,West,Nevada,Consumer,First Class,128.68,-1.99,104.1,136.88,24.58,2016,2016-08
+2015-11-20,South,Tennessee,Corporate,Standard Class,61.61,17.43,38.97,52.41,22.64,2015,2015-11
+2017-06-03,West,California,Home Office,First Class,1022.93,8.91,658.57,1216.64,364.36,2017,2017-06
+2016-04-05,West,Arizona,Consumer,Second Class,113.98,6.61,88.67,113.38,25.31,2016,2016-04
+2014-04-26,West,California,Home Office,Same Day,117.55,13.39,85.8,106.51,31.75,2014,2014-04
+2017-01-22,West,Oregon,Home Office,Standard Class,180.2,16.69,116.36,184.73,63.84,2017,2017-01
+2016-04-19,East,Maryland,Home Office,Second Class,201.77,5.41,126.49,210.74,75.28,2016,2016-04
+2016-07-16,East,Alabama,Corporate,Second Class,137.18,18.31,91.2,151.58,45.98,2016,2016-07
+2016-04-06,West,Nevada,Corporate,First Class,187.76,18.63,126.21,198.99,61.55,2016,2016-04
+2016-03-19,West,Arizona,Corporate,First Class,184.23,14.69,114.75,159.8,69.48,2016,2016-03
+2014-05-13,West,Oregon,Corporate,Standard Class,221.1,9.66,146.64,265.01,74.46,2014,2014-05
+2016-03-28,East,District of Columbia,Consumer,Standard Class,25.69,9.04,19.72,26.53,5.97,2016,2016-03
+2017-03-07,West,Washington,Home Office,Standard Class,942.7,20.07,745.76,830.33,196.94,2017,2017-03
+2015-03-21,Central,Illinois,Corporate,Same Day,168.14,6.12,134.45,194.9,33.69,2015,2015-03
+2016-05-30,West,Washington,Corporate,Standard Class,312.16,20.28,217.88,347.77,94.28,2016,2016-05
+2014-02-15,West,Oregon,Consumer,Second Class,59.06,13.52,40.39,65.54,18.67,2014,2014-02
+2015-05-23,East,Alabama,Consumer,Second Class,127.7,13.9,104.71,130.35,22.99,2015,2015-05
+2015-10-01,East,District of Columbia,Consumer,Standard Class,107.61,5.04,83.28,109.14,24.33,2015,2015-10
+2017-12-06,West,Washington,Consumer,Standard Class,664.65,13.62,483.51,707.54,181.14,2017,2017-12
+2014-11-10,West,Washington,Consumer,Standard Class,115.82,17.8,77.71,100.79,38.11,2014,2014-11
+2015-02-09,South,Tennessee,Consumer,First Class,362.99,7.08,248.38,351.95,114.61,2015,2015-02
+2015-08-20,West,Oregon,Consumer,Standard Class,109.63,17.17,79.27,136.51,30.36,2015,2015-08
+2017-12-21,East,Maryland,Corporate,Standard Class,129.71,14.92,94.48,144.61,35.23,2017,2017-12
+2017-05-31,East,District of Columbia,Consumer,Second Class,154.67,10.89,96.32,157.39,58.35,2017,2017-05
+2014-02-20,East,New Mexico,Home Office,Standard Class,567.52,19.13,460.76,532.87,106.76,2014,2014-02
+2014-12-08,East,District of Columbia,Consumer,First Class,38.23,2.32,28.1,43.89,10.13,2014,2014-12
+2017-04-15,Central,Missouri,Consumer,Standard Class,62.28,16.34,45.95,59.42,16.33,2017,2017-04
+2014-03-27,South,Tennessee,Consumer,Standard Class,36.41,23.34,24.11,33.31,12.3,2014,2014-03
+2017-06-04,West,Oregon,Corporate,Standard Class,75.61,22.35,58.45,68.94,17.16,2017,2017-06
+2015-02-16,East,Alabama,Consumer,Standard Class,95.6,16.57,73.37,109.15,22.23,2015,2015-02
+2017-09-02,West,Arizona,Corporate,Standard Class,48.31,12.77,30.87,53.49,17.44,2017,2017-09
+2015-03-05,East,Maryland,Home Office,Second Class,102.1,10.93,75.45,89.64,26.65,2015,2015-03
+2015-09-27,Central,Texas,Consumer,Standard Class,34.38,12.76,25.84,30.81,8.54,2015,2015-09
+2016-08-25,West,Washington,Corporate,Standard Class,80.21,17.42,63.13,88.51,17.08,2016,2016-08
+2014-07-04,East,Alabama,Consumer,Standard Class,528.67,9.99,349.57,570.14,179.1,2014,2014-07
+2016-03-24,South,North Carolina,Consumer,Standard Class,268.55,18.6,213.64,301.96,54.91,2016,2016-03
+2016-01-08,West,California,Consumer,First Class,223.49,26.16,159.19,205.88,64.3,2016,2016-01
+2017-02-19,East,New Mexico,Consumer,Standard Class,81.26,14.09,51.95,92.69,29.31,2017,2017-02
+2017-12-26,Central,Texas,Corporate,Same Day,51.64,7.04,33.11,63.23,18.53,2017,2017-12
+2016-08-28,West,Oregon,Corporate,Standard Class,72.36,7.03,47.73,78.9,24.63,2016,2016-08
+2015-08-21,West,Oregon,Corporate,Standard Class,183.69,18.7,124.28,170.55,59.41,2015,2015-08
+2015-08-17,West,Nevada,Consumer,Standard Class,398.6,14.1,286.71,447.16,111.89,2015,2015-08
+2015-09-03,South,North Carolina,Corporate,Standard Class,410.35,19.25,315.87,405.11,94.48,2015,2015-09
+2017-04-04,West,Oregon,Consumer,Second Class,325.71,11.5,214.1,283.27,111.61,2017,2017-04
+2015-04-15,West,Nevada,Consumer,Standard Class,101.81,19.0,83.33,98.85,18.48,2015,2015-04
+2014-09-01,West,Nevada,Consumer,Standard Class,194.58,13.56,126.93,235.88,67.65,2014,2014-09
+2015-05-04,West,Arizona,Corporate,Second Class,145.02,10.4,107.3,147.12,37.72,2015,2015-05
+2014-02-03,Central,Illinois,Home Office,Second Class,160.61,12.22,129.42,192.07,31.19,2014,2014-02
+2014-06-05,West,Oregon,Consumer,First Class,1076.6,7.85,846.75,1134.16,229.85,2014,2014-06
+2014-05-12,East,Maryland,Corporate,Same Day,42.62,25.37,31.95,45.04,10.67,2014,2014-05
+2017-02-01,East,New Mexico,Corporate,Second Class,156.1,13.9,119.12,133.01,36.98,2017,2017-02
+2016-11-21,South,Florida,Home Office,First Class,533.78,17.97,345.27,589.74,188.51,2016,2016-11
+2016-10-14,West,Oregon,Corporate,Second Class,54.82,11.48,34.09,48.96,20.73,2016,2016-10
+2015-11-06,South,Florida,Corporate,Standard Class,110.26,8.64,77.94,114.84,32.32,2015,2015-11
+2016-11-13,Central,Colorado,Corporate,Second Class,121.55,13.14,77.54,115.97,44.01,2016,2016-11
+2014-08-24,West,Arizona,Home Office,Standard Class,157.62,20.49,109.0,158.72,48.62,2014,2014-08
+2017-08-08,Central,Missouri,Consumer,Second Class,49.08,11.57,32.63,52.26,16.45,2017,2017-08
+2016-01-03,South,North Carolina,Home Office,Same Day,316.08,9.64,253.9,270.5,62.18,2016,2016-01
+2017-10-02,West,California,Consumer,Standard Class,335.74,15.29,267.25,323.6,68.49,2017,2017-10
+2014-08-11,South,Georgia,Home Office,First Class,293.57,17.17,230.1,365.74,63.47,2014,2014-08
+2015-12-28,East,New York,Consumer,First Class,90.94,23.47,69.37,79.39,21.57,2015,2015-12
+2016-10-14,Central,Minnesota,Consumer,Standard Class,205.11,16.38,133.49,200.55,71.62,2016,2016-10
+2015-12-26,South,Tennessee,Consumer,Standard Class,88.72,17.97,55.86,86.82,32.86,2015,2015-12
+2015-10-14,East,New Mexico,Consumer,First Class,143.64,18.39,107.84,143.89,35.8,2015,2015-10
+2014-08-31,Central,Texas,Consumer,Same Day,1188.5,8.09,889.53,1335.77,298.97,2014,2014-08
+2015-07-11,West,California,Consumer,Standard Class,206.72,9.13,143.44,196.2,63.28,2015,2015-07
+2014-12-15,Central,Missouri,Consumer,Standard Class,69.45,8.47,49.62,71.82,19.83,2014,2014-12
+2015-03-17,Central,Illinois,Consumer,Second Class,222.13,7.1,159.45,246.11,62.68,2015,2015-03
+2016-09-25,West,California,Corporate,Standard Class,60.4,18.81,40.35,59.13,20.05,2016,2016-09
+2016-07-09,East,New York,Home Office,Standard Class,68.78,16.03,46.97,84.57,21.81,2016,2016-07
+2016-06-06,West,Washington,Corporate,Standard Class,78.65,14.87,55.34,97.67,23.31,2016,2016-06
+2015-06-13,West,Nevada,Consumer,Standard Class,130.63,0.17,96.75,117.29,33.88,2015,2015-06
+2017-11-03,West,Arizona,Consumer,Standard Class,422.6,25.74,342.8,417.33,79.8,2017,2017-11
+2014-05-09,East,Maryland,Home Office,Second Class,311.57,9.51,226.73,290.75,84.84,2014,2014-05
+2015-05-16,West,Nevada,Consumer,Second Class,297.24,25.71,227.76,274.86,69.48,2015,2015-05
+2014-06-22,West,California,Consumer,Second Class,74.88,6.46,58.51,78.35,16.37,2014,2014-06
+2015-05-11,Central,Texas,Home Office,Standard Class,120.29,9.96,77.31,129.38,42.98,2015,2015-05
+2017-11-06,Central,Texas,Home Office,Standard Class,240.13,2.31,180.25,245.0,59.88,2017,2017-11
+2015-06-20,Central,Missouri,Consumer,Standard Class,111.71,16.42,80.03,107.13,31.68,2015,2015-06
+2017-08-20,West,Oregon,Corporate,Standard Class,150.41,8.37,110.47,144.61,39.94,2017,2017-08
+2015-12-25,South,Tennessee,Consumer,Standard Class,277.32,8.53,174.07,345.78,103.25,2015,2015-12
+2016-10-19,East,New York,Corporate,Standard Class,141.68,6.88,113.52,172.77,28.16,2016,2016-10
+2015-10-31,West,California,Consumer,Standard Class,230.94,18.71,187.19,203.31,43.75,2015,2015-10
+2015-01-24,West,Arizona,Consumer,Standard Class,737.91,18.34,458.02,821.01,279.89,2015,2015-01
+2017-01-21,Central,Texas,Corporate,Second Class,164.67,24.4,109.1,170.06,55.57,2017,2017-01
+2017-11-16,West,California,Consumer,Second Class,519.28,10.66,340.67,584.46,178.61,2017,2017-11
+2015-01-21,East,New Mexico,Corporate,First Class,306.58,15.63,237.99,333.8,68.59,2015,2015-01
+2017-02-11,South,Virginia,Consumer,Second Class,54.75,7.34,40.49,66.01,14.26,2017,2017-02
+2015-01-17,West,Washington,Home Office,Standard Class,74.68,12.59,48.95,65.48,25.73,2015,2015-01
+2016-11-13,West,Oregon,Corporate,Standard Class,93.83,11.58,73.45,92.88,20.38,2016,2016-11
+2017-02-26,South,Virginia,Consumer,Standard Class,92.15,16.98,63.65,114.65,28.5,2017,2017-02
+2015-10-19,East,New Mexico,Corporate,Standard Class,176.49,20.02,125.69,162.89,50.8,2015,2015-10
+2016-12-12,West,Washington,Consumer,Standard Class,321.32,19.88,224.11,289.49,97.21,2016,2016-12
+2015-02-02,South,Florida,Consumer,Standard Class,553.84,9.79,401.13,632.26,152.71,2015,2015-02
+2014-04-26,South,North Carolina,Consumer,Standard Class,247.63,19.92,177.31,287.49,70.32,2014,2014-04
+2014-05-21,East,District of Columbia,Home Office,Standard Class,130.47,14.19,88.06,145.98,42.41,2014,2014-05
+2015-10-16,Central,Minnesota,Home Office,Second Class,32.46,12.64,22.88,37.67,9.58,2015,2015-10
+2017-08-11,West,Arizona,Home Office,First Class,202.35,10.53,162.22,228.15,40.13,2017,2017-08
+2014-07-06,West,California,Home Office,Second Class,194.79,11.35,140.36,176.15,54.43,2014,2014-07
+2015-10-28,East,New York,Home Office,Second Class,222.63,24.01,178.83,243.4,43.8,2015,2015-10
+2016-10-25,West,Oregon,Consumer,Standard Class,1141.73,16.12,833.49,1325.26,308.24,2016,2016-10
+2014-10-23,Central,Texas,Home Office,Standard Class,547.03,15.39,423.27,654.36,123.76,2014,2014-10
+2016-11-20,South,North Carolina,Corporate,Second Class,371.41,12.99,252.08,352.28,119.33,2016,2016-11
+2015-03-24,West,Arizona,Consumer,Standard Class,84.12,27.88,65.45,75.79,18.67,2015,2015-03
+2017-03-27,East,Maryland,Corporate,Standard Class,123.22,21.61,82.91,143.24,40.31,2017,2017-03
+2016-04-26,West,Oregon,Consumer,Standard Class,175.81,10.46,109.69,167.48,66.12,2016,2016-04
+2016-03-10,South,Virginia,Consumer,First Class,98.58,12.93,64.29,85.05,34.29,2016,2016-03
+2014-09-16,West,California,Consumer,Second Class,291.6,13.25,182.05,344.11,109.55,2014,2014-09
+2015-11-08,Central,Missouri,Consumer,Standard Class,258.11,15.23,208.92,271.63,49.19,2015,2015-11
+2017-06-05,East,Maryland,Consumer,Second Class,75.56,10.57,61.96,74.1,13.6,2017,2017-06
+2014-01-29,East,District of Columbia,Home Office,Standard Class,527.05,16.84,407.12,450.4,119.93,2014,2014-01
+2017-01-13,Central,Minnesota,Corporate,Standard Class,207.88,22.42,133.38,179.64,74.5,2017,2017-01
+2015-12-21,Central,Texas,Corporate,Standard Class,43.83,7.21,35.05,51.15,8.78,2015,2015-12
+2016-11-17,East,Alabama,Consumer,Standard Class,182.43,8.23,140.24,190.8,42.19,2016,2016-11
+2016-08-27,Central,Texas,Consumer,Second Class,242.02,11.77,166.13,220.21,75.89,2016,2016-08
+2015-09-24,South,North Carolina,Consumer,Standard Class,435.66,12.03,313.87,432.79,121.79,2015,2015-09
+2015-03-27,East,District of Columbia,Home Office,Second Class,143.04,25.42,107.62,131.04,35.42,2015,2015-03
+2016-07-05,East,District of Columbia,Consumer,Standard Class,385.19,19.94,240.67,344.8,144.52,2016,2016-07
+2014-07-24,West,Arizona,Corporate,Second Class,223.42,19.62,160.93,214.6,62.49,2014,2014-07
+2016-05-03,Central,Colorado,Corporate,Second Class,62.32,12.98,47.77,66.67,14.55,2016,2016-05
+2014-05-19,East,New Mexico,Corporate,Second Class,57.23,12.86,37.64,53.45,19.59,2014,2014-05
+2016-08-07,East,Maryland,Home Office,Second Class,494.81,6.45,350.7,488.61,144.11,2016,2016-08
+2016-07-07,West,Arizona,Consumer,Same Day,526.68,18.73,382.64,548.36,144.04,2016,2016-07
+2014-05-04,South,North Carolina,Home Office,Standard Class,250.75,17.13,192.35,255.27,58.4,2014,2014-05
+2017-01-11,East,Alabama,Corporate,Second Class,679.5,21.5,552.36,612.54,127.14,2017,2017-01
+2015-08-31,Central,Illinois,Corporate,Second Class,467.84,13.27,369.43,404.94,98.41,2015,2015-08
+2017-02-23,West,Nevada,Corporate,Standard Class,340.73,13.65,253.61,294.45,87.12,2017,2017-02
+2014-03-02,South,Georgia,Home Office,Standard Class,87.83,15.37,64.71,86.96,23.12,2014,2014-03
+2014-09-20,West,Nevada,Home Office,Standard Class,830.24,19.34,614.91,944.42,215.33,2014,2014-09
+2015-12-23,West,California,Consumer,Standard Class,300.62,6.34,219.16,271.31,81.46,2015,2015-12
+2014-10-02,South,Florida,Corporate,Standard Class,137.28,18.48,86.74,159.9,50.54,2014,2014-10
+2015-04-27,South,Georgia,Corporate,Standard Class,107.98,14.32,82.03,122.69,25.95,2015,2015-04
+2016-08-23,West,Oregon,Consumer,Second Class,237.05,8.61,180.93,201.87,56.12,2016,2016-08
+2014-07-31,East,Alabama,Home Office,Standard Class,46.04,2.96,33.26,39.63,12.78,2014,2014-07
+2016-09-17,Central,Illinois,Consumer,First Class,345.41,13.68,274.28,320.55,71.13,2016,2016-09
+2014-06-01,South,Florida,Corporate,Standard Class,84.73,22.39,63.93,73.92,20.8,2014,2014-06
+2014-09-13,East,Maryland,Consumer,Second Class,261.13,23.64,180.84,277.46,80.29,2014,2014-09
+2016-05-08,East,New Mexico,Consumer,Standard Class,122.32,16.38,76.32,105.91,46.0,2016,2016-05
+2017-03-05,Central,Colorado,Home Office,Standard Class,152.21,25.22,96.17,178.25,56.04,2017,2017-03
+2014-09-07,Central,Minnesota,Consumer,Standard Class,100.15,14.19,69.14,104.88,31.01,2014,2014-09
+2015-03-15,Central,Illinois,Consumer,Second Class,166.16,19.67,118.38,189.62,47.78,2015,2015-03
+2017-09-13,East,Alabama,Consumer,Standard Class,949.54,11.95,620.4,1092.24,329.14,2017,2017-09
+2017-12-16,West,Nevada,Consumer,First Class,618.5,11.6,406.89,651.1,211.61,2017,2017-12
+2016-04-28,South,Virginia,Corporate,Standard Class,257.57,10.7,171.55,314.27,86.02,2016,2016-04
+2015-10-16,South,North Carolina,Home Office,Standard Class,186.51,3.1,144.75,232.41,41.76,2015,2015-10
+2015-05-22,Central,Missouri,Consumer,Standard Class,390.56,21.51,302.39,388.09,88.17,2015,2015-05
+2016-06-13,West,Washington,Corporate,Second Class,497.94,10.9,346.86,448.32,151.08,2016,2016-06
+2016-05-13,West,Nevada,Consumer,Standard Class,94.13,10.02,61.61,93.69,32.52,2016,2016-05
+2015-03-07,Central,Texas,Corporate,Standard Class,178.43,7.94,114.58,167.61,63.85,2015,2015-03
+2014-02-03,West,California,Consumer,Standard Class,40.5,13.31,25.82,43.03,14.68,2014,2014-02
+2014-08-10,South,Tennessee,Consumer,Standard Class,495.04,24.13,345.66,495.71,149.38,2014,2014-08
+2017-11-01,East,New Mexico,Consumer,Standard Class,1102.43,25.95,693.55,1148.93,408.88,2017,2017-11
+2015-09-03,Central,Minnesota,Corporate,Same Day,203.99,5.3,140.09,235.66,63.9,2015,2015-09
+2015-12-06,South,Virginia,Consumer,Standard Class,31.3,12.48,25.43,30.04,5.87,2015,2015-12
+2015-11-14,East,Alabama,Consumer,Standard Class,319.76,8.74,230.71,340.54,89.05,2015,2015-11
+2017-02-17,West,Washington,Corporate,Same Day,88.37,19.87,69.33,86.96,19.04,2017,2017-02
+2014-04-05,Central,Texas,Corporate,Standard Class,108.44,16.01,70.04,126.22,38.4,2014,2014-04
+2014-05-01,East,New York,Consumer,Standard Class,324.6,10.93,218.66,358.95,105.94,2014,2014-05
+2015-02-08,East,District of Columbia,Corporate,Second Class,236.6,14.83,191.48,201.91,45.12,2015,2015-02
+2015-12-13,Central,Illinois,Home Office,First Class,125.85,11.8,87.68,140.2,38.17,2015,2015-12
+2016-09-07,South,North Carolina,Consumer,Second Class,109.71,23.31,82.25,100.72,27.46,2016,2016-09
+2015-12-18,East,New Mexico,Corporate,Standard Class,212.08,17.44,172.89,241.73,39.19,2015,2015-12
+2015-10-07,West,California,Consumer,Same Day,134.55,18.11,98.24,144.9,36.31,2015,2015-10
+2017-10-02,East,New Mexico,Corporate,Standard Class,74.23,-0.24,50.56,75.02,23.67,2017,2017-10
+2014-08-24,East,New York,Consumer,Same Day,143.64,14.06,104.34,161.97,39.3,2014,2014-08
+2016-04-15,West,California,Corporate,First Class,254.34,25.89,160.47,303.34,93.87,2016,2016-04
+2016-03-03,West,California,Consumer,First Class,163.79,21.72,105.23,190.24,58.56,2016,2016-03
+2015-11-23,Central,Missouri,Consumer,Standard Class,57.31,4.27,35.61,61.22,21.7,2015,2015-11
+2017-03-25,East,New Mexico,Home Office,Standard Class,441.73,12.71,351.99,503.16,89.74,2017,2017-03
+2015-01-26,South,Tennessee,Consumer,Second Class,18.58,7.82,14.01,18.87,4.57,2015,2015-01
+2017-10-25,West,Oregon,Home Office,Standard Class,130.4,23.84,88.63,152.0,41.77,2017,2017-10
+2015-04-30,West,Washington,Home Office,Standard Class,112.49,15.77,74.72,132.92,37.77,2015,2015-04
+2016-03-07,Central,Minnesota,Home Office,First Class,216.15,10.21,163.54,195.6,52.61,2016,2016-03
+2016-01-31,South,Tennessee,Consumer,Second Class,307.17,14.62,246.94,290.34,60.23,2016,2016-01
+2017-05-26,West,Oregon,Corporate,Standard Class,496.58,0.09,337.59,475.72,158.99,2017,2017-05
+2015-10-04,West,California,Consumer,Standard Class,104.01,8.46,71.18,95.32,32.83,2015,2015-10
+2015-02-20,West,Washington,Consumer,Standard Class,313.75,14.63,248.13,315.95,65.62,2015,2015-02
+2014-02-01,East,District of Columbia,Home Office,Standard Class,225.08,19.08,179.77,208.7,45.31,2014,2014-02
+2015-06-16,East,New Mexico,Corporate,Standard Class,44.49,3.75,35.72,48.41,8.77,2015,2015-06
+2017-04-22,West,Arizona,Corporate,First Class,958.59,12.33,650.53,853.76,308.06,2017,2017-04
+2014-01-15,West,Oregon,Consumer,Second Class,56.09,19.98,36.13,53.73,19.96,2014,2014-01
+2017-08-02,East,New York,Corporate,Standard Class,272.21,6.45,192.72,303.84,79.49,2017,2017-08
+2016-03-04,South,Tennessee,Corporate,Standard Class,265.46,15.69,180.29,267.96,85.17,2016,2016-03
+2014-07-24,Central,Minnesota,Consumer,Second Class,240.88,14.79,191.93,245.36,48.95,2014,2014-07
+2015-03-18,East,Alabama,Home Office,First Class,125.16,23.86,78.52,146.33,46.64,2015,2015-03
+2016-03-20,West,Arizona,Consumer,First Class,384.97,13.16,287.49,478.83,97.48,2016,2016-03
+2015-04-07,West,California,Consumer,Standard Class,50.59,13.49,40.53,54.44,10.06,2015,2015-04
+2014-06-08,West,Arizona,Corporate,First Class,180.2,19.13,146.92,158.87,33.28,2014,2014-06
+2016-08-31,Central,Illinois,Home Office,Standard Class,118.0,7.14,88.5,105.16,29.5,2016,2016-08
+2016-09-09,South,Tennessee,Consumer,Standard Class,107.16,13.22,86.8,132.6,20.36,2016,2016-09
+2014-06-23,South,Florida,Consumer,First Class,274.36,11.92,174.25,307.75,100.11,2014,2014-06
+2015-02-15,South,North Carolina,Consumer,Standard Class,476.21,13.67,329.47,548.11,146.74,2015,2015-02
+2014-12-23,South,Virginia,Home Office,Standard Class,142.34,19.1,88.5,159.46,53.84,2014,2014-12
+2016-08-21,South,Florida,Consumer,Standard Class,370.03,17.48,302.03,341.11,68.0,2016,2016-08
+2016-12-02,West,California,Consumer,Standard Class,198.8,10.31,159.15,204.63,39.65,2016,2016-12
+2016-11-28,West,Arizona,Home Office,Standard Class,89.23,15.18,55.82,104.33,33.41,2016,2016-11
+2017-10-03,West,California,Consumer,Second Class,153.05,22.63,95.45,183.13,57.6,2017,2017-10
+2017-01-27,East,Alabama,Corporate,Standard Class,147.74,9.86,102.44,139.6,45.3,2017,2017-01
+2015-04-14,West,Arizona,Consumer,Standard Class,105.41,15.23,70.8,114.73,34.61,2015,2015-04
+2014-06-07,South,Virginia,Corporate,First Class,274.3,13.37,216.53,250.39,57.77,2014,2014-06
+2016-06-16,Central,Colorado,Consumer,Standard Class,232.63,14.08,151.7,286.91,80.93,2016,2016-06
+2017-08-31,East,New Mexico,Consumer,First Class,49.3,5.46,38.36,46.88,10.94,2017,2017-08
+2017-11-25,West,Nevada,Consumer,Standard Class,46.81,22.19,34.21,53.39,12.6,2017,2017-11
+2014-12-03,West,Oregon,Corporate,Standard Class,273.41,10.17,190.15,257.67,83.26,2014,2014-12
+2014-12-12,West,Oregon,Corporate,Standard Class,95.3,20.07,61.86,104.49,33.44,2014,2014-12
+2014-02-24,South,Florida,Consumer,First Class,246.35,11.01,201.89,274.36,44.46,2014,2014-02
+2014-07-26,East,Alabama,Consumer,Standard Class,370.11,10.99,275.21,363.22,94.9,2014,2014-07
+2016-03-21,Central,Minnesota,Home Office,First Class,64.7,21.1,45.8,76.19,18.9,2016,2016-03
+2016-03-09,West,Nevada,Consumer,Standard Class,57.41,19.9,39.86,69.13,17.55,2016,2016-03
+2015-06-26,East,New York,Consumer,Second Class,790.98,15.58,633.69,942.87,157.29,2015,2015-06
+2015-03-29,East,Alabama,Corporate,Standard Class,256.94,18.62,201.5,252.4,55.44,2015,2015-03
+2017-04-27,Central,Minnesota,Consumer,Standard Class,133.44,12.84,104.38,153.15,29.06,2017,2017-04
+2015-11-04,Central,Texas,Consumer,Standard Class,86.16,14.38,64.04,92.52,22.12,2015,2015-11
+2017-03-26,West,Arizona,Consumer,Standard Class,123.49,10.79,98.49,134.24,25.0,2017,2017-03
+2017-11-08,South,North Carolina,Consumer,Standard Class,69.27,19.4,47.09,72.11,22.18,2017,2017-11
+2015-04-09,West,Oregon,Corporate,Second Class,403.79,10.62,307.18,440.17,96.61,2015,2015-04
+2014-10-24,South,Virginia,Corporate,Standard Class,98.47,22.6,69.02,89.04,29.45,2014,2014-10
+2017-10-24,West,Oregon,Corporate,Standard Class,482.75,12.69,357.23,489.29,125.52,2017,2017-10
+2016-07-16,West,Oregon,Consumer,Standard Class,135.57,14.54,111.12,124.87,24.45,2016,2016-07
+2015-03-02,South,Georgia,Home Office,Standard Class,78.5,18.6,64.13,75.52,14.37,2015,2015-03
+2016-06-27,West,Arizona,Consumer,Standard Class,132.64,14.56,95.84,119.53,36.8,2016,2016-06
+2016-01-23,East,District of Columbia,Corporate,Second Class,20.48,12.79,15.05,19.15,5.43,2016,2016-01
+2017-08-15,East,New York,Consumer,Standard Class,171.97,14.26,137.48,199.96,34.49,2017,2017-08
+2015-01-09,West,Nevada,Corporate,First Class,164.91,19.35,134.75,176.44,30.16,2015,2015-01
+2017-12-19,Central,Texas,Consumer,Standard Class,384.15,10.78,297.99,330.16,86.16,2017,2017-12
+2017-09-29,South,Georgia,Consumer,Standard Class,38.35,13.74,24.28,44.69,14.07,2017,2017-09
+2014-09-22,South,Tennessee,Consumer,First Class,511.62,14.49,350.22,621.0,161.4,2014,2014-09
+2014-08-29,East,New York,Consumer,Standard Class,382.8,19.19,305.98,460.19,76.82,2014,2014-08
+2016-02-18,East,Maryland,Consumer,Standard Class,552.38,13.88,427.36,651.37,125.02,2016,2016-02
+2014-03-07,West,Washington,Corporate,Same Day,182.21,24.38,140.02,227.2,42.19,2014,2014-03
+2015-03-13,West,Nevada,Home Office,First Class,451.16,13.57,339.99,489.31,111.17,2015,2015-03
+2015-09-28,West,Oregon,Consumer,Second Class,54.57,13.12,38.37,67.4,16.2,2015,2015-09
+2017-11-17,South,North Carolina,Home Office,Standard Class,349.36,13.49,244.78,429.55,104.58,2017,2017-11
+2017-12-20,South,Tennessee,Corporate,Second Class,98.94,7.19,77.35,96.5,21.59,2017,2017-12
+2014-08-10,Central,Colorado,Home Office,Same Day,46.82,8.73,31.78,55.97,15.04,2014,2014-08
+2017-07-26,East,Alabama,Corporate,First Class,73.29,11.51,55.48,85.53,17.81,2017,2017-07
+2014-05-13,East,New York,Corporate,Standard Class,191.46,20.68,146.51,222.15,44.95,2014,2014-05
+2016-12-29,East,Maryland,Corporate,Standard Class,94.57,14.25,74.61,114.29,19.96,2016,2016-12
+2017-05-20,East,District of Columbia,Corporate,Standard Class,262.35,11.76,179.44,263.31,82.91,2017,2017-05
+2017-07-25,East,District of Columbia,Home Office,Standard Class,40.98,21.18,31.49,41.39,9.49,2017,2017-07
+2014-11-23,West,Nevada,Consumer,Second Class,31.25,22.96,20.04,34.56,11.21,2014,2014-11
+2017-07-29,West,Washington,Consumer,Standard Class,611.88,21.33,396.26,700.68,215.62,2017,2017-07
+2014-06-19,South,Florida,Consumer,Standard Class,410.85,9.74,289.02,493.8,121.83,2014,2014-06
+2016-01-29,East,District of Columbia,Home Office,Standard Class,78.11,11.71,49.29,93.76,28.82,2016,2016-01
+2015-11-18,South,Virginia,Consumer,Standard Class,190.08,24.41,153.88,216.41,36.2,2015,2015-11
+2015-04-07,West,Washington,Corporate,Standard Class,453.31,15.76,362.82,558.82,90.49,2015,2015-04
+2014-02-02,East,New Mexico,Home Office,Standard Class,272.14,12.96,171.39,250.76,100.75,2014,2014-02
+2017-02-01,West,Nevada,Home Office,Standard Class,216.15,18.38,170.25,265.89,45.9,2017,2017-02
+2015-05-06,West,Oregon,Consumer,Same Day,483.42,19.97,348.92,423.32,134.5,2015,2015-05
+2016-08-24,West,Arizona,Corporate,Standard Class,102.4,11.29,77.86,109.8,24.54,2016,2016-08
+2015-08-23,West,California,Home Office,Standard Class,195.68,15.64,156.03,173.39,39.65,2015,2015-08
+2015-06-30,South,Georgia,Consumer,Standard Class,187.7,19.53,138.03,202.19,49.67,2015,2015-06
+2017-07-18,East,New York,Corporate,Standard Class,151.13,8.05,97.22,152.04,53.91,2017,2017-07
+2014-05-19,Central,Minnesota,Consumer,Standard Class,136.82,14.5,84.9,120.76,51.92,2014,2014-05
+2016-12-12,East,Alabama,Corporate,Standard Class,202.74,8.3,145.85,224.89,56.89,2016,2016-12
+2016-12-27,East,District of Columbia,Consumer,Standard Class,196.22,9.02,158.91,224.18,37.31,2016,2016-12
+2015-07-10,East,New Mexico,Consumer,Standard Class,78.17,11.33,57.42,71.89,20.75,2015,2015-07
+2015-01-19,West,California,Consumer,Second Class,376.73,17.05,261.67,424.87,115.06,2015,2015-01
+2014-01-08,South,North Carolina,Consumer,Standard Class,83.1,12.66,52.04,76.59,31.06,2014,2014-01
+2017-09-30,Central,Texas,Consumer,Standard Class,158.3,10.86,127.11,143.25,31.19,2017,2017-09
+2017-10-16,Central,Minnesota,Corporate,Second Class,148.27,14.71,101.63,134.77,46.64,2017,2017-10
+2014-12-19,East,Alabama,Consumer,Standard Class,258.37,8.12,196.61,281.53,61.76,2014,2014-12
+2014-02-16,West,Arizona,Consumer,Standard Class,31.46,16.79,23.87,36.54,7.59,2014,2014-02
+2014-06-29,South,Georgia,Corporate,Standard Class,406.37,20.65,272.58,442.44,133.79,2014,2014-06
+2014-04-09,East,Maryland,Corporate,Standard Class,107.19,13.99,67.83,125.81,39.36,2014,2014-04
+2017-04-29,West,California,Corporate,Standard Class,537.52,13.32,374.65,584.06,162.87,2017,2017-04
+2017-07-27,East,New Mexico,Home Office,Same Day,126.92,16.48,86.74,148.36,40.18,2017,2017-07
+2014-08-12,Central,Colorado,Consumer,Same Day,182.82,3.27,138.95,226.81,43.87,2014,2014-08
+2016-12-26,Central,Minnesota,Home Office,Same Day,969.44,17.38,760.0,975.63,209.44,2016,2016-12
+2014-09-19,Central,Minnesota,Consumer,Standard Class,150.55,31.49,100.04,137.0,50.51,2014,2014-09
+2015-06-21,Central,Texas,Corporate,Standard Class,546.22,13.76,396.36,493.87,149.86,2015,2015-06
+2016-05-25,West,Washington,Home Office,Standard Class,197.0,13.77,123.74,214.53,73.26,2016,2016-05
+2016-11-17,South,North Carolina,Home Office,Standard Class,271.27,18.52,179.81,289.94,91.46,2016,2016-11
+2017-07-01,East,Maryland,Corporate,Standard Class,202.24,23.48,156.2,186.81,46.04,2017,2017-07
+2014-03-07,Central,Texas,Corporate,Standard Class,391.77,19.79,305.06,471.24,86.71,2014,2014-03
+2014-10-14,West,Arizona,Consumer,Standard Class,106.41,2.57,82.5,131.17,23.91,2014,2014-10
+2015-02-14,South,Virginia,Corporate,Standard Class,82.56,17.53,53.54,78.54,29.02,2015,2015-02
+2015-03-30,West,Oregon,Corporate,Standard Class,110.74,28.58,80.86,103.29,29.88,2015,2015-03
+2017-12-29,West,Washington,Home Office,Second Class,207.42,17.85,146.14,194.06,61.28,2017,2017-12
+2017-02-09,East,District of Columbia,Consumer,Standard Class,157.95,8.08,129.25,158.73,28.7,2017,2017-02
+2015-04-14,West,California,Consumer,First Class,348.53,15.98,261.68,415.2,86.85,2015,2015-04
+2017-11-20,West,Oregon,Corporate,Standard Class,577.68,7.39,466.21,628.74,111.47,2017,2017-11
+2015-12-31,Central,Missouri,Consumer,Standard Class,83.14,21.21,53.96,72.92,29.18,2015,2015-12
+2016-01-02,East,District of Columbia,Consumer,Standard Class,102.12,9.17,72.52,106.12,29.6,2016,2016-01
+2015-09-26,South,Georgia,Consumer,Standard Class,56.22,14.84,43.53,49.82,12.69,2015,2015-09
+2014-07-30,West,Nevada,Corporate,Standard Class,1070.43,9.71,742.42,1083.8,328.01,2014,2014-07
+2017-09-27,Central,Texas,Consumer,Standard Class,246.9,11.42,184.31,249.72,62.59,2017,2017-09
+2014-01-21,East,New York,Consumer,Second Class,286.53,22.6,206.97,317.86,79.56,2014,2014-01
+2014-09-12,Central,Illinois,Consumer,Standard Class,61.0,15.0,49.92,65.26,11.08,2014,2014-09
+2014-12-02,East,District of Columbia,Home Office,Standard Class,190.38,11.35,124.66,228.44,65.72,2014,2014-12
+2015-02-13,East,Alabama,Corporate,First Class,293.79,8.13,237.11,251.63,56.68,2015,2015-02
+2014-07-12,South,North Carolina,Consumer,Standard Class,153.72,4.14,107.65,178.25,46.07,2014,2014-07
+2014-01-27,East,Maryland,Consumer,Standard Class,475.49,7.55,339.31,408.48,136.18,2014,2014-01
+2016-09-17,West,California,Corporate,Standard Class,1359.75,15.05,986.8,1321.29,372.95,2016,2016-09
+2017-11-17,Central,Illinois,Consumer,Standard Class,85.2,19.82,57.35,102.4,27.85,2017,2017-11
+2014-06-27,South,Florida,Corporate,Standard Class,79.94,11.35,64.97,90.03,14.97,2014,2014-06
+2015-03-10,West,California,Consumer,Standard Class,90.37,23.07,72.5,83.03,17.87,2015,2015-03
+2016-01-10,East,Alabama,Home Office,Second Class,746.41,10.48,608.01,780.98,138.4,2016,2016-01
+2017-09-17,South,Florida,Consumer,Standard Class,462.2,13.12,378.72,526.34,83.48,2017,2017-09
+2016-10-11,Central,Texas,Corporate,Standard Class,169.83,8.49,128.05,208.03,41.78,2016,2016-10
+2017-01-24,South,North Carolina,Consumer,Standard Class,196.58,19.88,139.64,216.97,56.94,2017,2017-01
+2016-04-29,East,Maryland,Home Office,First Class,95.2,25.97,75.22,81.86,19.98,2016,2016-04
+2015-09-02,Central,Colorado,Home Office,Second Class,406.07,4.74,253.7,426.33,152.37,2015,2015-09
+2014-10-19,West,California,Corporate,First Class,137.98,12.53,108.57,125.73,29.41,2014,2014-10
+2017-06-16,South,Georgia,Consumer,Second Class,152.77,21.39,109.91,132.77,42.86,2017,2017-06
+2017-03-20,East,New Mexico,Consumer,Second Class,319.73,6.47,241.28,348.32,78.45,2017,2017-03
+2014-02-06,Central,Minnesota,Corporate,Standard Class,162.42,17.55,112.85,188.53,49.57,2014,2014-02
+2016-11-11,East,New Mexico,Corporate,First Class,156.07,21.15,108.27,134.91,47.8,2016,2016-11
+2014-05-04,East,New Mexico,Consumer,Standard Class,192.29,14.86,120.44,223.72,71.85,2014,2014-05
+2016-12-15,Central,Colorado,Consumer,Standard Class,374.67,17.46,264.05,424.33,110.62,2016,2016-12
+2017-04-21,East,Maryland,Consumer,Second Class,772.41,24.11,541.98,888.89,230.43,2017,2017-04
+2014-07-11,South,Georgia,Home Office,Standard Class,313.46,25.15,208.44,297.13,105.02,2014,2014-07
+2015-09-26,East,New Mexico,Corporate,Standard Class,377.22,14.09,252.54,380.03,124.68,2015,2015-09
+2014-06-30,Central,Texas,Corporate,Standard Class,160.79,11.5,118.47,144.37,42.32,2014,2014-06
+2016-04-08,East,Alabama,Corporate,Standard Class,104.41,9.37,71.37,98.73,33.04,2016,2016-04
+2017-09-17,East,Alabama,Consumer,First Class,332.25,19.8,261.17,322.65,71.08,2017,2017-09
+2014-04-29,East,Maryland,Consumer,Standard Class,220.42,6.89,141.57,215.52,78.85,2014,2014-04
+2015-08-04,West,Washington,Consumer,First Class,56.87,13.04,41.83,52.32,15.04,2015,2015-08
+2017-11-22,West,Washington,Corporate,Standard Class,144.19,14.99,94.01,133.45,50.18,2017,2017-11
+2015-03-16,Central,Minnesota,Consumer,Second Class,177.6,11.66,128.88,215.0,48.72,2015,2015-03
+2014-07-13,Central,Minnesota,Consumer,Standard Class,123.48,15.97,90.2,143.68,33.28,2014,2014-07
+2015-12-15,Central,Texas,Consumer,First Class,671.47,28.53,502.57,663.27,168.9,2015,2015-12
+2016-01-13,West,Oregon,Consumer,Standard Class,286.54,13.76,202.15,352.17,84.39,2016,2016-01
+2016-08-26,East,New York,Corporate,Standard Class,612.29,12.04,442.01,578.96,170.28,2016,2016-08
+2015-04-04,West,Oregon,Consumer,Standard Class,238.39,20.01,156.43,241.42,81.96,2015,2015-04
+2017-10-28,Central,Illinois,Consumer,Standard Class,204.22,15.75,145.53,240.04,58.69,2017,2017-10
+2016-02-01,South,Georgia,Corporate,Standard Class,85.96,22.35,59.71,88.29,26.25,2016,2016-02
+2015-02-23,West,Oregon,Consumer,Second Class,192.51,15.34,145.0,181.7,47.51,2015,2015-02
+2017-11-03,Central,Illinois,Consumer,First Class,192.69,13.06,136.22,192.19,56.47,2017,2017-11
+2017-09-13,West,Washington,Consumer,Second Class,59.62,4.62,46.26,62.62,13.36,2017,2017-09
+2015-12-31,West,Nevada,Corporate,Standard Class,120.47,5.52,84.96,132.31,35.51,2015,2015-12
+2014-02-06,West,Arizona,Consumer,Standard Class,144.78,4.33,96.59,146.55,48.19,2014,2014-02
+2016-05-22,West,California,Corporate,First Class,270.82,16.52,182.73,276.92,88.09,2016,2016-05
+2016-03-22,Central,Illinois,Home Office,First Class,282.07,6.94,177.44,269.54,104.63,2016,2016-03
+2014-08-05,South,Tennessee,Corporate,Standard Class,116.27,21.34,84.64,123.73,31.63,2014,2014-08
+2016-07-15,West,Oregon,Consumer,Same Day,283.88,14.6,223.18,266.22,60.7,2016,2016-07
+2017-05-13,East,Maryland,Corporate,Standard Class,163.24,13.09,126.32,195.4,36.92,2017,2017-05
+2014-06-04,Central,Colorado,Consumer,First Class,16.62,9.79,11.76,19.1,4.86,2014,2014-06
+2016-11-22,South,Florida,Consumer,Same Day,126.22,17.85,83.21,128.0,43.01,2016,2016-11
+2014-07-25,Central,Texas,Corporate,Second Class,476.82,10.01,377.97,547.81,98.85,2014,2014-07
+2016-12-30,West,Nevada,Consumer,Standard Class,45.63,9.01,28.81,38.91,16.82,2016,2016-12
+2015-09-05,Central,Colorado,Consumer,Second Class,209.72,20.97,146.77,207.16,62.95,2015,2015-09
+2014-01-10,East,Alabama,Consumer,Standard Class,733.24,16.38,580.23,752.39,153.01,2014,2014-01
+2017-11-12,South,Georgia,Consumer,Second Class,99.83,13.14,69.74,103.62,30.09,2017,2017-11
+2014-08-31,East,District of Columbia,Consumer,Standard Class,190.91,17.96,122.86,219.45,68.05,2014,2014-08
+2016-05-20,Central,Colorado,Corporate,Second Class,62.9,14.48,42.34,77.69,20.56,2016,2016-05
+2014-09-23,West,Nevada,Home Office,First Class,759.87,16.54,562.31,761.39,197.56,2014,2014-09
+2017-09-25,East,New York,Consumer,Standard Class,177.53,9.94,115.47,175.8,62.06,2017,2017-09
+2016-12-14,South,Florida,Corporate,Standard Class,198.27,25.82,148.9,216.95,49.37,2016,2016-12
+2017-03-21,Central,Minnesota,Consumer,Second Class,602.54,11.24,426.38,579.95,176.16,2017,2017-03
+2015-09-24,East,District of Columbia,Consumer,Standard Class,334.37,22.99,229.67,303.12,104.7,2015,2015-09
+2015-11-14,South,Tennessee,Consumer,Standard Class,90.53,13.39,60.49,111.77,30.04,2015,2015-11
+2016-07-15,South,Georgia,Consumer,Standard Class,109.93,18.87,86.26,129.04,23.67,2016,2016-07
+2017-02-20,East,New York,Consumer,Standard Class,290.24,18.47,202.97,357.98,87.27,2017,2017-02
+2017-05-22,East,District of Columbia,Consumer,Second Class,112.11,20.74,86.07,105.06,26.04,2017,2017-05
+2014-01-27,East,Alabama,Consumer,Standard Class,31.51,9.81,22.31,27.01,9.2,2014,2014-01
+2016-08-27,Central,Illinois,Corporate,Standard Class,182.13,20.35,116.27,186.67,65.86,2016,2016-08
+2014-06-09,East,Alabama,Consumer,Standard Class,54.15,24.59,38.34,66.25,15.81,2014,2014-06
+2015-02-25,West,Arizona,Consumer,Standard Class,752.83,13.01,543.2,681.56,209.63,2015,2015-02
+2017-04-26,South,Georgia,Consumer,Standard Class,221.47,14.62,157.59,198.63,63.88,2017,2017-04
+2015-01-01,South,Virginia,Corporate,Second Class,88.29,11.55,69.15,77.48,19.14,2015,2015-01
+2017-03-10,South,Virginia,Consumer,Standard Class,105.23,12.52,84.41,121.65,20.82,2017,2017-03
+2015-11-08,South,North Carolina,Corporate,Standard Class,38.24,23.84,29.73,44.53,8.51,2015,2015-11
+2014-12-06,Central,Minnesota,Consumer,First Class,74.85,8.91,55.13,84.44,19.72,2014,2014-12
+2015-05-04,Central,Illinois,Consumer,Standard Class,452.09,9.25,329.25,393.91,122.84,2015,2015-05
+2016-02-15,Central,Missouri,Home Office,Second Class,1270.31,23.29,951.36,1447.28,318.95,2016,2016-02
+2017-01-22,East,District of Columbia,Consumer,Standard Class,353.34,17.87,239.41,363.75,113.93,2017,2017-01
+2016-06-04,East,District of Columbia,Consumer,Standard Class,176.23,26.09,137.88,160.93,38.35,2016,2016-06
+2017-09-25,West,Nevada,Consumer,Standard Class,132.0,11.95,104.46,127.78,27.54,2017,2017-09
+2017-06-21,Central,Texas,Home Office,Second Class,84.52,15.12,56.92,88.78,27.6,2017,2017-06
+2017-01-05,West,Washington,Corporate,First Class,1097.51,10.8,878.63,1077.6,218.88,2017,2017-01
+2016-05-31,West,Oregon,Corporate,Standard Class,162.32,15.22,128.19,200.94,34.13,2016,2016-05
+2015-02-28,East,District of Columbia,Home Office,Standard Class,1150.88,4.67,811.25,1196.8,339.63,2015,2015-02
+2015-08-26,East,New Mexico,Consumer,Standard Class,622.97,18.2,499.5,622.26,123.47,2015,2015-08
+2014-06-23,West,Oregon,Home Office,Second Class,43.39,16.21,27.95,48.56,15.44,2014,2014-06
+2015-07-01,Central,Texas,Consumer,Second Class,108.2,14.11,67.69,120.13,40.51,2015,2015-07
+2017-09-15,South,Virginia,Corporate,Second Class,107.91,12.28,74.41,91.83,33.5,2017,2017-09
+2015-09-15,West,Washington,Consumer,First Class,178.06,9.51,130.53,195.4,47.53,2015,2015-09
+2014-06-16,West,California,Consumer,Standard Class,181.04,18.43,124.97,171.54,56.07,2014,2014-06
+2016-08-10,East,District of Columbia,Home Office,Second Class,2432.81,7.99,1966.72,2433.04,466.09,2016,2016-08
+2017-11-07,Central,Texas,Consumer,Standard Class,76.28,17.25,51.18,86.39,25.1,2017,2017-11
+2017-06-21,South,Florida,Home Office,Standard Class,231.51,25.84,156.56,248.4,74.95,2017,2017-06
+2015-02-05,West,California,Consumer,First Class,321.83,22.6,240.4,321.01,81.43,2015,2015-02
+2015-10-26,Central,Colorado,Corporate,Standard Class,190.31,6.15,118.14,174.51,72.17,2015,2015-10
+2016-02-15,West,California,Home Office,Second Class,209.28,11.48,160.21,220.2,49.07,2016,2016-02
+2014-12-29,East,District of Columbia,Consumer,Second Class,78.41,16.75,54.53,76.67,23.88,2014,2014-12
+2015-01-28,South,North Carolina,Home Office,First Class,208.62,14.04,170.14,253.51,38.48,2015,2015-01
+2014-12-12,West,Washington,Corporate,Standard Class,294.33,6.73,223.19,313.09,71.14,2014,2014-12
+2017-12-24,West,California,Corporate,Standard Class,251.76,16.55,158.72,301.2,93.04,2017,2017-12
+2016-12-25,East,New Mexico,Consumer,First Class,309.41,14.37,197.57,311.29,111.84,2016,2016-12
+2017-05-13,Central,Texas,Corporate,Second Class,633.16,24.96,403.72,747.75,229.44,2017,2017-05
+2017-04-08,South,Tennessee,Corporate,Standard Class,422.6,13.04,342.53,368.77,80.07,2017,2017-04
+2017-11-02,South,Georgia,Consumer,Second Class,202.47,20.85,153.23,196.24,49.24,2017,2017-11
+2014-06-03,West,Oregon,Consumer,Standard Class,70.39,7.46,49.66,62.03,20.73,2014,2014-06
+2017-07-12,West,California,Consumer,Second Class,114.43,8.78,75.53,98.71,38.9,2017,2017-07
+2014-04-08,Central,Texas,Home Office,First Class,158.11,18.4,125.65,192.51,32.46,2014,2014-04
+2015-11-26,West,Washington,Consumer,Standard Class,236.16,20.39,155.94,268.45,80.22,2015,2015-11
+2016-05-18,South,Florida,Corporate,Standard Class,126.9,9.16,96.61,139.6,30.29,2016,2016-05
+2015-06-07,Central,Minnesota,Home Office,Same Day,86.02,14.56,66.46,91.44,19.56,2015,2015-06
+2014-08-02,West,Arizona,Consumer,Second Class,69.41,6.83,47.12,74.81,22.29,2014,2014-08
+2014-10-08,South,Tennessee,Consumer,First Class,46.83,13.43,33.76,51.77,13.07,2014,2014-10
+2017-04-19,West,Washington,Corporate,Standard Class,156.07,19.03,103.72,184.26,52.35,2017,2017-04
+2015-04-11,East,Alabama,Consumer,Same Day,54.64,12.04,38.02,59.49,16.62,2015,2015-04
+2015-03-30,East,New Mexico,Corporate,Standard Class,81.41,13.06,66.19,93.58,15.22,2015,2015-03
+2017-09-11,East,New York,Corporate,Standard Class,136.34,8.22,103.43,131.21,32.91,2017,2017-09
+2014-07-30,Central,Texas,Corporate,Standard Class,61.22,10.86,48.32,75.96,12.9,2014,2014-07
+2017-08-30,Central,Colorado,Consumer,Second Class,263.17,24.1,191.62,227.05,71.55,2017,2017-08
+2017-09-07,South,North Carolina,Corporate,First Class,357.52,14.83,238.75,359.18,118.77,2017,2017-09
+2016-05-24,South,Florida,Corporate,Second Class,119.46,8.92,91.1,143.69,28.36,2016,2016-05
+2014-08-30,East,District of Columbia,Consumer,Second Class,131.44,12.7,94.65,121.22,36.79,2014,2014-08
+2014-08-16,West,Nevada,Corporate,Standard Class,300.91,5.64,197.21,272.79,103.7,2014,2014-08
+2015-02-20,Central,Colorado,Home Office,Standard Class,103.87,8.85,72.97,103.47,30.9,2015,2015-02
+2016-04-23,South,Tennessee,Corporate,Standard Class,97.97,21.91,73.18,100.05,24.79,2016,2016-04
+2014-08-13,West,Arizona,Consumer,Standard Class,526.91,13.65,404.17,644.6,122.74,2014,2014-08
+2015-10-28,East,District of Columbia,Consumer,Standard Class,404.06,24.83,270.17,478.59,133.89,2015,2015-10
+2014-06-18,East,Maryland,Consumer,First Class,317.77,13.91,252.69,329.09,65.08,2014,2014-06
+2016-02-29,West,Arizona,Consumer,Second Class,418.55,14.23,291.27,518.66,127.28,2016,2016-02
+2014-01-31,Central,Colorado,Consumer,Second Class,35.49,17.95,23.93,39.28,11.56,2014,2014-01
+2016-11-01,East,Alabama,Home Office,Standard Class,602.3,-0.27,396.93,722.44,205.37,2016,2016-11
+2014-03-22,Central,Missouri,Consumer,Standard Class,265.94,15.56,207.66,252.22,58.28,2014,2014-03
+2014-10-12,South,Florida,Corporate,Standard Class,449.96,14.16,310.85,470.47,139.11,2014,2014-10
+2014-09-13,South,North Carolina,Consumer,Standard Class,264.83,22.6,189.8,228.25,75.03,2014,2014-09
+2017-04-29,East,New York,Consumer,Standard Class,198.66,19.74,132.02,169.57,66.64,2017,2017-04
+2014-03-19,East,Maryland,Consumer,Standard Class,150.8,8.19,114.19,170.73,36.61,2014,2014-03
+2015-09-20,Central,Colorado,Consumer,Standard Class,260.36,21.26,202.09,233.63,58.27,2015,2015-09
+2016-05-13,Central,Missouri,Corporate,Second Class,146.21,12.99,100.58,156.32,45.63,2016,2016-05
+2016-01-24,East,District of Columbia,Home Office,Standard Class,398.49,9.46,322.38,449.66,76.11,2016,2016-01
+2016-09-21,South,Georgia,Home Office,Standard Class,49.48,15.51,30.98,42.7,18.5,2016,2016-09
+2017-03-19,West,Washington,Consumer,Standard Class,120.26,13.31,77.76,123.81,42.5,2017,2017-03
+2015-07-30,South,North Carolina,Corporate,Standard Class,1083.66,22.89,799.48,1217.67,284.18,2015,2015-07
+2017-04-25,West,Arizona,Consumer,Standard Class,111.93,16.3,85.1,134.98,26.83,2017,2017-04
+2015-04-10,West,Arizona,Home Office,Standard Class,155.57,15.56,104.25,150.85,51.32,2015,2015-04
+2017-12-09,East,Maryland,Consumer,Second Class,90.0,19.38,65.77,111.57,24.23,2017,2017-12
+2016-01-08,West,California,Consumer,Standard Class,253.53,20.44,173.33,301.15,80.2,2016,2016-01
+2016-12-11,West,Nevada,Consumer,First Class,101.92,18.74,74.48,113.16,27.44,2016,2016-12
+2017-07-02,West,Washington,Consumer,Standard Class,162.75,22.24,122.37,163.85,40.38,2017,2017-07
+2017-03-04,East,New York,Consumer,Standard Class,392.11,17.78,319.4,444.83,72.71,2017,2017-03
+2017-05-28,Central,Texas,Home Office,Standard Class,105.22,15.35,74.83,123.79,30.39,2017,2017-05
+2016-02-23,West,Oregon,Corporate,Standard Class,372.53,21.25,279.26,361.85,93.27,2016,2016-02
+2014-03-05,Central,Illinois,Home Office,Standard Class,383.33,13.93,281.98,478.06,101.35,2014,2014-03
+2015-12-22,South,North Carolina,Consumer,First Class,467.18,14.61,319.32,566.9,147.86,2015,2015-12
+2014-09-23,West,Washington,Corporate,Standard Class,214.75,23.9,144.01,224.24,70.74,2014,2014-09
+2017-07-22,West,Nevada,Consumer,Second Class,2996.11,23.35,2449.54,3412.96,546.57,2017,2017-07
+2014-12-12,South,Virginia,Corporate,Standard Class,467.01,14.39,308.87,494.85,158.14,2014,2014-12
+2014-11-30,South,North Carolina,Consumer,Standard Class,251.17,11.94,195.42,289.94,55.75,2014,2014-11
+2014-12-31,East,New York,Consumer,Standard Class,90.51,22.48,58.77,106.87,31.74,2014,2014-12
+2016-07-27,Central,Colorado,Corporate,Standard Class,175.48,18.83,137.03,150.79,38.45,2016,2016-07
+2016-04-14,West,Nevada,Consumer,Standard Class,640.58,16.17,420.95,564.77,219.63,2016,2016-04
+2017-10-18,East,Maryland,Consumer,Same Day,814.93,12.66,662.89,802.37,152.04,2017,2017-10
+2015-09-01,Central,Illinois,Corporate,Second Class,669.53,16.25,506.97,814.85,162.56,2015,2015-09
+2015-02-17,West,Oregon,Consumer,Same Day,371.45,14.31,236.99,374.91,134.46,2015,2015-02
+2014-03-13,Central,Illinois,Home Office,Standard Class,65.54,10.78,49.72,78.98,15.82,2014,2014-03
+2014-01-11,East,New Mexico,Consumer,Second Class,288.32,15.14,213.57,298.4,74.75,2014,2014-01
+2015-06-30,Central,Illinois,Corporate,Standard Class,66.34,15.89,45.61,64.05,20.73,2015,2015-06
+2017-09-14,East,Maryland,Corporate,Second Class,53.82,12.37,36.17,65.14,17.65,2017,2017-09
+2016-02-05,East,Alabama,Corporate,Same Day,233.52,19.4,178.35,250.86,55.17,2016,2016-02
+2017-07-29,West,Oregon,Corporate,Second Class,297.29,21.52,228.4,295.56,68.89,2017,2017-07
+2014-05-29,West,Oregon,Home Office,First Class,410.7,19.76,281.51,356.39,129.19,2014,2014-05
+2014-05-17,Central,Minnesota,Corporate,Second Class,290.78,12.91,231.24,260.07,59.54,2014,2014-05
+2017-05-02,West,Washington,Consumer,Standard Class,299.42,18.59,201.74,271.19,97.68,2017,2017-05
+2014-06-05,West,California,Consumer,Second Class,82.52,14.86,52.32,82.18,30.2,2014,2014-06
+2014-03-17,West,Arizona,Corporate,Standard Class,174.3,7.63,128.98,190.5,45.32,2014,2014-03
+2015-08-14,West,California,Consumer,First Class,52.93,18.13,33.95,51.5,18.98,2015,2015-08
+2017-09-13,South,North Carolina,Consumer,First Class,34.71,15.23,23.44,30.41,11.27,2017,2017-09
+2016-10-04,East,Maryland,Consumer,Standard Class,357.65,28.69,258.02,341.89,99.63,2016,2016-10
+2014-05-25,South,Georgia,Corporate,Standard Class,100.47,22.44,68.05,101.82,32.42,2014,2014-05
+2017-05-08,West,California,Consumer,Standard Class,400.06,18.34,265.24,498.84,134.82,2017,2017-05
+2017-05-17,Central,Missouri,Corporate,Standard Class,488.87,15.8,371.85,492.39,117.02,2017,2017-05
+2017-03-15,East,New Mexico,Corporate,Standard Class,112.57,15.33,82.11,99.7,30.46,2017,2017-03
+2017-08-11,East,Maryland,Home Office,Second Class,314.75,8.91,248.01,340.7,66.74,2017,2017-08
+2014-12-17,South,Virginia,Consumer,Standard Class,108.64,4.87,79.99,132.31,28.65,2014,2014-12
+2017-12-02,South,Florida,Corporate,First Class,39.69,9.63,28.45,46.23,11.24,2017,2017-12
+2015-04-14,South,North Carolina,Corporate,Standard Class,211.62,14.17,142.26,250.66,69.36,2015,2015-04
+2017-03-17,West,Oregon,Consumer,Standard Class,127.71,2.85,99.41,155.97,28.3,2017,2017-03
+2016-04-26,West,Oregon,Corporate,Standard Class,131.1,11.44,86.44,144.82,44.66,2016,2016-04
+2017-02-12,Central,Texas,Consumer,First Class,1021.51,13.07,682.82,1274.81,338.69,2017,2017-02
+2016-07-06,West,Arizona,Home Office,Standard Class,52.09,13.25,41.06,44.97,11.03,2016,2016-07
+2016-07-27,Central,Illinois,Consumer,Standard Class,263.87,10.79,202.72,312.41,61.15,2016,2016-07
+2016-06-19,East,Alabama,Home Office,Standard Class,81.81,12.55,60.75,97.58,21.06,2016,2016-06
+2017-02-12,East,Alabama,Corporate,First Class,412.41,23.91,258.9,501.77,153.51,2017,2017-02
+2016-12-15,South,Georgia,Consumer,Standard Class,245.59,18.07,158.52,255.72,87.07,2016,2016-12
+2014-07-16,Central,Texas,Corporate,Second Class,263.08,11.35,189.42,306.52,73.66,2014,2014-07
+2017-04-21,West,Washington,Consumer,Second Class,85.36,14.05,65.66,79.22,19.7,2017,2017-04
+2016-02-23,West,Arizona,Corporate,Second Class,99.41,14.27,70.86,108.48,28.55,2016,2016-02
+2015-04-18,Central,Missouri,Corporate,Standard Class,419.12,10.21,261.3,416.38,157.82,2015,2015-04
+2016-01-22,East,District of Columbia,Consumer,Standard Class,858.49,10.2,563.9,934.44,294.59,2016,2016-01
+2017-11-13,West,Washington,Consumer,Standard Class,286.65,19.99,211.48,321.11,75.17,2017,2017-11
+2017-06-06,East,Alabama,Corporate,Standard Class,88.87,12.12,67.44,87.88,21.43,2017,2017-06
+2017-05-03,Central,Texas,Consumer,Second Class,254.19,8.41,159.3,238.05,94.89,2017,2017-05
+2015-11-08,South,Virginia,Home Office,Standard Class,1500.2,14.19,943.13,1468.21,557.07,2015,2015-11
+2017-02-19,East,New Mexico,Corporate,Standard Class,207.9,15.08,139.76,231.93,68.14,2017,2017-02
+2015-07-17,East,Alabama,Corporate,Standard Class,660.21,3.58,420.36,739.93,239.85,2015,2015-07
+2016-09-29,West,Nevada,Consumer,Standard Class,101.57,14.21,73.98,116.45,27.59,2016,2016-09
+2016-07-23,East,District of Columbia,Corporate,Standard Class,183.87,19.2,118.55,165.6,65.32,2016,2016-07
+2014-12-31,West,Oregon,Home Office,Second Class,322.67,16.91,241.89,379.91,80.78,2014,2014-12
+2015-01-25,East,Maryland,Consumer,Standard Class,267.13,26.69,207.14,300.59,59.99,2015,2015-01
+2014-03-31,Central,Colorado,Consumer,Same Day,99.34,21.31,80.87,85.65,18.47,2014,2014-03
+2014-07-24,West,California,Consumer,Second Class,95.77,22.4,77.54,94.26,18.23,2014,2014-07
+2015-09-26,West,California,Consumer,Standard Class,441.44,29.83,297.83,457.63,143.61,2015,2015-09
+2015-11-30,West,Oregon,Corporate,Standard Class,524.7,18.6,328.4,521.68,196.3,2015,2015-11
+2014-08-30,South,Tennessee,Consumer,Standard Class,689.06,15.33,472.61,618.06,216.45,2014,2014-08
+2015-09-02,Central,Colorado,Corporate,Standard Class,883.01,19.79,672.59,823.79,210.42,2015,2015-09
+2016-06-01,West,Nevada,Consumer,Standard Class,213.67,11.35,135.03,183.72,78.64,2016,2016-06
+2014-12-06,South,Florida,Consumer,First Class,146.27,15.02,101.21,129.78,45.06,2014,2014-12
+2015-05-10,East,New Mexico,Consumer,Second Class,600.85,10.87,408.34,574.73,192.51,2015,2015-05
+2015-06-21,East,Alabama,Home Office,Standard Class,349.36,16.62,231.93,411.54,117.43,2015,2015-06
+2016-01-08,South,Georgia,Corporate,Standard Class,82.67,10.84,62.93,87.68,19.74,2016,2016-01
+2015-06-20,West,California,Consumer,Standard Class,79.16,10.65,59.51,80.73,19.65,2015,2015-06
+2016-12-12,West,California,Corporate,Same Day,289.5,16.7,210.5,322.75,79.0,2016,2016-12
+2015-04-24,East,District of Columbia,Consumer,Standard Class,163.91,13.67,131.48,174.83,32.43,2015,2015-04
+2015-09-26,West,Nevada,Consumer,Second Class,186.33,3.83,119.37,168.18,66.96,2015,2015-09
+2015-07-09,Central,Illinois,Consumer,Second Class,474.21,6.42,308.21,445.31,166.0,2015,2015-07
+2014-09-25,West,Washington,Home Office,Standard Class,363.28,8.12,253.09,341.12,110.19,2014,2014-09
+2016-09-28,West,California,Corporate,Standard Class,590.16,9.57,443.31,643.26,146.85,2016,2016-09
+2014-12-10,West,Arizona,Corporate,Standard Class,36.9,16.71,27.19,38.18,9.71,2014,2014-12
+2015-03-10,East,New York,Consumer,First Class,236.37,15.63,150.05,237.56,86.32,2015,2015-03
+2017-03-04,West,Nevada,Consumer,Standard Class,343.95,20.29,279.18,368.94,64.77,2017,2017-03
+2017-10-18,West,Washington,Corporate,Second Class,52.06,18.57,35.45,64.45,16.61,2017,2017-10
+2016-09-07,South,Georgia,Consumer,Second Class,109.22,20.33,75.56,106.56,33.66,2016,2016-09
+2017-08-31,East,Maryland,Home Office,First Class,93.28,17.78,69.47,98.7,23.81,2017,2017-08
+2017-06-01,East,District of Columbia,Corporate,Standard Class,194.11,15.58,157.04,202.29,37.07,2017,2017-06
+2015-12-04,West,California,Consumer,Standard Class,760.27,20.48,572.13,864.17,188.14,2015,2015-12
+2017-01-30,East,Maryland,Corporate,Second Class,1063.37,19.49,862.34,1214.49,201.03,2017,2017-01
+2015-04-25,West,Washington,Home Office,Standard Class,95.38,16.5,62.71,108.89,32.67,2015,2015-04
+2015-11-04,Central,Illinois,Consumer,First Class,298.14,21.42,221.75,277.45,76.39,2015,2015-11
+2016-02-22,West,California,Corporate,Standard Class,306.43,1.53,240.79,315.51,65.64,2016,2016-02
+2017-11-04,South,Tennessee,Home Office,Standard Class,264.93,12.83,191.23,311.15,73.7,2017,2017-11
+2017-05-24,South,Georgia,Consumer,First Class,267.5,12.75,185.23,268.2,82.27,2017,2017-05
+2015-12-16,West,Oregon,Home Office,Standard Class,246.7,20.77,201.54,306.82,45.16,2015,2015-12
+2016-08-11,West,Washington,Consumer,Standard Class,799.86,23.07,518.47,796.59,281.39,2016,2016-08
+2014-10-23,West,Arizona,Corporate,Standard Class,486.43,6.45,341.56,510.3,144.87,2014,2014-10
+2017-03-21,Central,Illinois,Corporate,Standard Class,77.39,22.19,61.5,80.47,15.89,2017,2017-03
+2016-03-18,West,Washington,Corporate,First Class,374.79,7.99,299.87,383.58,74.92,2016,2016-03
+2016-02-18,South,Georgia,Consumer,Standard Class,406.88,8.15,332.05,483.48,74.83,2016,2016-02
+2017-01-24,Central,Illinois,Corporate,Standard Class,249.07,13.14,198.5,227.18,50.57,2017,2017-01
+2016-07-13,Central,Texas,Consumer,Standard Class,498.55,12.68,314.18,536.97,184.37,2016,2016-07
+2014-04-16,East,Alabama,Consumer,Same Day,223.6,5.86,180.21,245.39,43.39,2014,2014-04
+2015-02-25,South,Florida,Consumer,Standard Class,225.97,18.0,159.45,269.01,66.52,2015,2015-02
+2014-09-16,West,Washington,Corporate,Same Day,211.25,18.17,158.51,231.04,52.74,2014,2014-09
+2016-12-09,East,Maryland,Consumer,First Class,34.28,20.23,23.96,42.3,10.32,2016,2016-12
+2014-02-21,East,Maryland,Consumer,Standard Class,177.98,12.05,139.31,213.37,38.67,2014,2014-02
+2014-10-23,South,Virginia,Home Office,First Class,107.98,14.21,79.39,106.85,28.59,2014,2014-10
+2016-05-22,East,New Mexico,Consumer,Second Class,69.51,14.26,54.85,82.99,14.66,2016,2016-05
+2016-10-12,Central,Missouri,Consumer,Standard Class,644.78,23.71,424.75,795.27,220.03,2016,2016-10
+2016-01-06,West,Washington,Consumer,Standard Class,292.53,-1.16,192.19,278.75,100.34,2016,2016-01
+2017-06-11,South,Tennessee,Consumer,First Class,185.79,9.17,131.55,203.27,54.24,2017,2017-06
+2017-09-04,East,New York,Corporate,Second Class,117.91,14.46,73.22,113.51,44.69,2017,2017-09
+2014-07-13,East,New Mexico,Consumer,Second Class,245.12,8.46,185.94,272.04,59.18,2014,2014-07
+2017-10-23,South,Virginia,Consumer,Same Day,442.62,13.01,300.63,392.81,141.99,2017,2017-10
+2016-06-16,East,New Mexico,Home Office,Standard Class,94.36,13.74,69.02,107.92,25.34,2016,2016-06
+2016-07-18,East,District of Columbia,Corporate,First Class,189.79,10.81,120.33,193.19,69.46,2016,2016-07
+2014-05-19,East,Maryland,Corporate,First Class,398.56,14.78,260.71,432.41,137.85,2014,2014-05
+2016-06-27,West,California,Home Office,Standard Class,36.76,17.88,27.37,31.63,9.39,2016,2016-06
+2016-11-26,East,Alabama,Home Office,Standard Class,181.47,13.13,123.61,204.73,57.86,2016,2016-11
+2016-04-28,West,California,Consumer,Standard Class,132.3,11.94,87.71,138.7,44.59,2016,2016-04
+2014-05-04,West,Nevada,Corporate,First Class,170.08,13.52,113.23,187.11,56.85,2014,2014-05
+2016-02-04,South,Virginia,Corporate,Standard Class,124.41,14.39,82.48,121.46,41.93,2016,2016-02
+2017-09-29,East,District of Columbia,Consumer,Second Class,214.22,4.86,159.5,194.58,54.72,2017,2017-09
+2016-11-22,East,New Mexico,Consumer,Standard Class,977.58,16.97,638.89,1001.21,338.69,2016,2016-11
+2014-07-20,East,District of Columbia,Consumer,Standard Class,144.7,11.95,100.21,177.63,44.49,2014,2014-07
+2017-11-03,East,New York,Corporate,Second Class,244.19,21.37,184.99,229.81,59.2,2017,2017-11
+2017-11-01,Central,Colorado,Corporate,Standard Class,1038.5,17.68,750.56,1163.47,287.94,2017,2017-11
+2014-09-05,South,Florida,Corporate,First Class,119.4,20.87,88.29,103.87,31.11,2014,2014-09
+2017-03-16,South,Virginia,Consumer,Standard Class,891.12,8.87,597.21,1013.42,293.91,2017,2017-03
+2015-08-18,East,Alabama,Consumer,First Class,191.43,12.39,154.4,180.97,37.03,2015,2015-08
+2016-05-17,East,District of Columbia,Consumer,Standard Class,866.63,7.6,609.05,893.15,257.58,2016,2016-05
+2015-10-13,East,Alabama,Corporate,Same Day,360.56,10.55,244.24,359.51,116.32,2015,2015-10
+2017-02-17,East,Maryland,Home Office,Second Class,247.41,21.32,198.14,221.47,49.27,2017,2017-02
+2017-12-27,East,New York,Home Office,Standard Class,180.23,22.61,135.36,178.11,44.87,2017,2017-12
+2017-03-07,Central,Missouri,Home Office,Standard Class,112.12,8.12,83.28,111.0,28.84,2017,2017-03
+2017-09-22,East,New Mexico,Home Office,Standard Class,203.25,11.91,162.06,215.21,41.19,2017,2017-09
+2017-10-14,East,New York,Home Office,Second Class,408.61,14.01,258.12,506.24,150.49,2017,2017-10
+2014-05-12,East,District of Columbia,Consumer,First Class,188.45,17.65,148.41,195.61,40.04,2014,2014-05
+2015-01-06,East,District of Columbia,Consumer,Standard Class,145.6,4.75,110.01,177.02,35.59,2015,2015-01
+2016-11-20,West,Oregon,Consumer,Standard Class,153.98,5.61,106.55,159.31,47.43,2016,2016-11
+2016-05-12,West,Nevada,Consumer,Second Class,443.02,17.12,297.39,395.62,145.63,2016,2016-05
+2014-03-15,Central,Texas,Consumer,Standard Class,539.9,3.71,346.05,508.62,193.85,2014,2014-03
+2014-05-19,East,New York,Consumer,Second Class,108.09,11.97,87.36,109.5,20.73,2014,2014-05
+2016-01-31,West,Washington,Home Office,Standard Class,107.95,15.32,69.99,105.81,37.96,2016,2016-01
+2016-06-19,East,Alabama,Consumer,Second Class,263.08,16.72,176.76,314.73,86.32,2016,2016-06
+2014-09-03,Central,Texas,Home Office,Same Day,698.13,13.65,529.34,782.92,168.79,2014,2014-09
+2014-09-08,West,California,Corporate,Standard Class,504.76,12.42,384.64,545.81,120.12,2014,2014-09
+2014-07-08,South,Virginia,Corporate,Standard Class,65.75,19.08,42.88,68.81,22.87,2014,2014-07
+2016-04-05,South,Virginia,Corporate,Standard Class,152.25,16.0,119.19,153.61,33.06,2016,2016-04
+2014-01-12,East,Alabama,Consumer,Standard Class,86.4,10.87,62.39,94.6,24.01,2014,2014-01
+2016-04-16,Central,Minnesota,Corporate,Standard Class,151.81,14.64,119.88,136.61,31.93,2016,2016-04
+2015-11-27,West,Arizona,Consumer,First Class,745.27,16.54,475.08,681.93,270.19,2015,2015-11
+2015-11-12,South,Virginia,Home Office,Second Class,56.87,23.88,35.75,55.23,21.12,2015,2015-11
+2016-09-19,East,New Mexico,Consumer,Standard Class,48.13,18.75,35.97,44.21,12.16,2016,2016-09
+2016-02-03,South,Tennessee,Consumer,Second Class,94.23,21.11,61.25,105.62,32.98,2016,2016-02
+2016-11-29,East,Maryland,Corporate,Standard Class,243.28,11.07,176.38,209.2,66.9,2016,2016-11
+2017-01-21,West,California,Corporate,First Class,323.0,11.55,201.17,295.24,121.83,2017,2017-01
+2017-09-06,West,Nevada,Consumer,Standard Class,276.4,13.14,214.48,334.73,61.92,2017,2017-09
+2017-03-13,Central,Illinois,Corporate,Second Class,517.67,13.64,414.09,646.58,103.58,2017,2017-03
+2016-01-27,East,District of Columbia,Consumer,First Class,42.58,8.89,33.54,44.5,9.04,2016,2016-01
+2015-12-21,West,Oregon,Corporate,Second Class,523.26,21.39,424.71,548.45,98.55,2015,2015-12
+2014-12-11,Central,Missouri,Consumer,First Class,146.16,19.29,117.02,169.45,29.14,2014,2014-12
+2016-05-26,South,Florida,Consumer,Standard Class,354.88,12.75,251.54,306.79,103.34,2016,2016-05
+2014-07-23,East,Alabama,Consumer,First Class,61.87,17.96,43.29,63.16,18.58,2014,2014-07
+2017-09-22,East,New Mexico,Consumer,Standard Class,191.37,15.66,152.95,170.31,38.42,2017,2017-09
+2017-05-19,West,Oregon,Consumer,Second Class,232.95,18.39,187.62,235.37,45.33,2017,2017-05
+2014-06-24,Central,Illinois,Consumer,Standard Class,508.97,7.04,414.59,632.92,94.38,2014,2014-06
+2017-02-22,East,District of Columbia,Consumer,Standard Class,49.53,13.63,38.32,57.03,11.21,2017,2017-02
+2014-06-21,South,Georgia,Consumer,Standard Class,195.61,14.11,129.18,243.34,66.43,2014,2014-06
+2016-11-19,East,District of Columbia,Corporate,Standard Class,75.76,17.86,61.29,87.0,14.47,2016,2016-11
+2014-05-09,East,New Mexico,Consumer,Second Class,292.85,10.97,237.04,320.16,55.81,2014,2014-05
+2015-12-15,West,California,Corporate,First Class,368.94,0.68,277.9,424.9,91.04,2015,2015-12
+2016-08-19,West,Arizona,Home Office,First Class,569.12,8.48,450.43,633.79,118.69,2016,2016-08
+2016-11-30,Central,Texas,Consumer,Standard Class,120.93,14.09,88.55,125.24,32.38,2016,2016-11
+2015-09-04,East,Maryland,Home Office,First Class,419.11,14.78,338.99,405.29,80.12,2015,2015-09
+2017-09-08,East,District of Columbia,Consumer,Standard Class,605.93,23.69,387.06,641.12,218.87,2017,2017-09
+2017-02-05,South,Tennessee,Consumer,Standard Class,47.15,17.64,37.38,44.95,9.77,2017,2017-02
+2014-11-01,South,Tennessee,Corporate,First Class,320.7,14.88,202.39,335.03,118.31,2014,2014-11
+2016-09-07,South,North Carolina,Corporate,Standard Class,430.41,14.25,296.05,391.01,134.36,2016,2016-09
+2016-12-03,West,Nevada,Home Office,Standard Class,152.95,20.5,98.97,164.6,53.98,2016,2016-12
+2015-05-03,East,Maryland,Consumer,Standard Class,68.09,11.18,48.74,64.56,19.35,2015,2015-05
+2016-12-14,South,Virginia,Corporate,Standard Class,424.75,13.66,283.07,410.92,141.68,2016,2016-12
+2017-08-05,East,New Mexico,Consumer,First Class,68.75,8.44,55.72,72.16,13.03,2017,2017-08
+2017-04-08,West,California,Consumer,Standard Class,163.76,22.23,119.85,149.84,43.91,2017,2017-04
+2017-01-19,Central,Colorado,Consumer,Standard Class,184.18,16.59,147.26,227.45,36.92,2017,2017-01
+2016-07-16,East,New Mexico,Home Office,Standard Class,350.1,10.54,236.53,360.18,113.57,2016,2016-07
+2015-01-31,East,Maryland,Consumer,Standard Class,111.87,13.8,69.94,110.85,41.93,2015,2015-01
+2017-03-07,South,Georgia,Home Office,Second Class,106.5,17.23,82.55,91.77,23.95,2017,2017-03
+2015-06-17,Central,Colorado,Corporate,First Class,207.28,13.05,157.63,246.1,49.65,2015,2015-06
+2016-02-17,East,New York,Corporate,Second Class,448.29,11.49,326.85,493.27,121.44,2016,2016-02
+2015-04-05,East,New York,Corporate,First Class,1331.86,10.83,1042.94,1353.92,288.92,2015,2015-04
+2015-04-03,East,Alabama,Home Office,Standard Class,52.91,16.29,41.69,50.17,11.22,2015,2015-04
+2014-08-19,West,Washington,Consumer,First Class,249.15,12.46,183.77,286.04,65.38,2014,2014-08
+2017-11-05,Central,Minnesota,Consumer,Standard Class,75.67,11.93,61.53,92.94,14.14,2017,2017-11
+2014-08-04,South,North Carolina,Corporate,Standard Class,453.04,7.08,346.1,454.09,106.94,2014,2014-08
+2014-05-07,West,Oregon,Consumer,Second Class,85.82,14.86,64.83,77.58,20.99,2014,2014-05
+2017-09-29,West,Oregon,Consumer,Standard Class,107.4,13.43,74.35,95.98,33.05,2017,2017-09
+2016-03-21,South,North Carolina,Consumer,First Class,115.48,12.66,71.65,98.45,43.83,2016,2016-03
+2015-10-02,West,Arizona,Consumer,Second Class,178.61,15.52,119.35,204.97,59.26,2015,2015-10
+2016-12-13,East,District of Columbia,Consumer,Same Day,250.82,18.54,193.83,311.66,56.99,2016,2016-12
+2015-07-15,East,Maryland,Consumer,Standard Class,287.48,18.29,219.05,358.52,68.43,2015,2015-07
+2014-07-06,Central,Minnesota,Home Office,Standard Class,189.63,17.47,130.12,220.67,59.51,2014,2014-07
+2016-12-02,West,Arizona,Consumer,Second Class,61.53,13.11,45.85,56.29,15.68,2016,2016-12
+2014-09-15,Central,Texas,Home Office,Standard Class,353.76,11.31,233.15,439.05,120.61,2014,2014-09
+2016-03-18,East,Alabama,Home Office,Standard Class,182.18,8.69,122.56,178.74,59.62,2016,2016-03
+2017-10-18,Central,Colorado,Consumer,Second Class,511.56,11.17,414.1,503.09,97.46,2017,2017-10
+2017-09-29,West,Arizona,Corporate,Same Day,104.42,14.54,73.37,117.47,31.05,2017,2017-09
+2015-06-12,East,New Mexico,Corporate,Second Class,48.82,10.11,32.66,42.45,16.16,2015,2015-06
+2017-02-14,East,District of Columbia,Corporate,Standard Class,185.13,14.96,132.82,218.51,52.31,2017,2017-02
+2016-06-14,West,California,Consumer,Standard Class,573.39,9.12,399.88,716.12,173.51,2016,2016-06
+2015-12-02,West,California,Consumer,Second Class,218.5,5.29,167.35,253.47,51.15,2015,2015-12
+2014-07-24,West,Arizona,Consumer,Standard Class,160.82,18.94,130.65,186.98,30.17,2014,2014-07
+2015-07-04,East,New Mexico,Corporate,Standard Class,90.94,11.82,67.15,91.5,23.79,2015,2015-07
+2016-08-10,West,Oregon,Home Office,Standard Class,849.04,9.83,626.79,744.07,222.25,2016,2016-08
+2017-12-12,South,Florida,Corporate,Standard Class,79.43,8.41,55.04,92.7,24.39,2017,2017-12
+2014-01-08,East,Maryland,Corporate,Standard Class,102.86,16.76,75.39,112.0,27.47,2014,2014-01
+2016-11-14,Central,Missouri,Home Office,Standard Class,309.37,21.99,211.57,375.49,97.8,2016,2016-11
+2017-05-21,South,Georgia,Corporate,Second Class,39.35,12.21,24.41,35.27,14.94,2017,2017-05
+2017-10-21,West,Oregon,Consumer,Standard Class,563.07,13.24,446.64,547.33,116.43,2017,2017-10
+2015-09-12,Central,Illinois,Home Office,Second Class,323.94,20.32,228.67,322.08,95.27,2015,2015-09
+2014-06-23,South,Georgia,Consumer,Standard Class,409.26,4.47,294.02,459.73,115.24,2014,2014-06
+2015-01-31,Central,Texas,Consumer,First Class,306.25,25.25,194.99,356.81,111.26,2015,2015-01
+2017-05-27,East,District of Columbia,Consumer,Standard Class,166.18,27.87,130.85,205.13,35.33,2017,2017-05
+2017-07-06,East,District of Columbia,Home Office,Standard Class,77.19,-0.45,50.49,74.73,26.7,2017,2017-07
+2016-07-19,West,California,Consumer,Standard Class,169.18,13.89,118.79,177.21,50.39,2016,2016-07
+2014-06-29,East,Maryland,Consumer,Standard Class,83.18,10.48,65.55,71.67,17.63,2014,2014-06
+2014-06-28,South,North Carolina,Consumer,Standard Class,288.08,12.97,204.99,274.02,83.09,2014,2014-06
+2015-11-30,South,Georgia,Consumer,First Class,378.33,12.13,305.02,378.18,73.31,2015,2015-11
+2016-05-09,West,Nevada,Consumer,First Class,668.67,18.89,442.57,727.19,226.1,2016,2016-05
+2014-02-17,Central,Illinois,Corporate,Standard Class,261.39,13.81,199.45,271.41,61.94,2014,2014-02
+2016-09-29,West,California,Home Office,Standard Class,418.17,9.42,341.06,416.41,77.11,2016,2016-09
+2016-03-06,South,Georgia,Consumer,Second Class,148.03,13.48,108.05,162.78,39.98,2016,2016-03
+2014-01-18,West,Oregon,Consumer,Second Class,126.91,17.26,96.25,149.94,30.66,2014,2014-01
+2014-05-20,South,Florida,Consumer,Standard Class,285.04,7.92,199.14,269.84,85.9,2014,2014-05
+2015-10-26,South,Tennessee,Consumer,Second Class,137.21,5.38,105.69,135.45,31.52,2015,2015-10
+2016-11-21,West,California,Corporate,Standard Class,239.56,25.39,192.07,271.17,47.49,2016,2016-11
+2017-04-20,West,California,Corporate,Second Class,77.32,10.9,58.81,89.78,18.51,2017,2017-04
+2015-09-23,South,North Carolina,Corporate,Standard Class,90.07,13.67,72.7,106.3,17.37,2015,2015-09
+2015-03-08,West,Oregon,Consumer,Standard Class,327.05,12.24,241.27,305.38,85.78,2015,2015-03
+2017-11-15,East,Maryland,Corporate,Standard Class,404.92,17.44,297.79,431.53,107.13,2017,2017-11
+2015-11-01,South,Georgia,Consumer,Second Class,82.45,24.18,56.14,99.76,26.31,2015,2015-11
+2015-04-06,East,New York,Consumer,Standard Class,336.98,17.62,256.75,339.26,80.23,2015,2015-04
+2015-10-09,East,Alabama,Home Office,Second Class,121.17,6.08,96.5,123.83,24.67,2015,2015-10
+2014-01-18,East,Maryland,Corporate,Second Class,193.26,6.82,144.8,240.4,48.46,2014,2014-01
+2015-03-18,West,California,Home Office,Second Class,635.49,12.24,423.62,568.9,211.87,2015,2015-03
+2016-01-24,South,Georgia,Home Office,Standard Class,378.56,12.95,275.9,428.62,102.66,2016,2016-01
+2017-09-03,West,Arizona,Corporate,Standard Class,374.84,4.96,289.07,446.09,85.77,2017,2017-09
+2016-12-14,West,Washington,Home Office,Standard Class,965.33,18.94,779.86,878.76,185.47,2016,2016-12
+2017-02-15,West,Arizona,Consumer,Second Class,104.76,8.46,68.23,118.98,36.53,2017,2017-02
+2016-03-07,South,Georgia,Consumer,First Class,82.43,22.64,53.21,85.55,29.22,2016,2016-03
+2014-06-11,West,California,Consumer,Standard Class,103.15,24.44,72.47,122.87,30.68,2014,2014-06
+2015-07-26,South,Georgia,Consumer,First Class,153.5,13.06,99.03,186.19,54.47,2015,2015-07
+2017-12-27,Central,Illinois,Consumer,Standard Class,25.76,16.84,21.02,30.89,4.74,2017,2017-12
+2014-03-06,South,Florida,Consumer,Standard Class,159.76,7.65,112.61,139.91,47.15,2014,2014-03
+2017-07-08,South,North Carolina,Corporate,Standard Class,119.95,17.86,87.17,138.27,32.78,2017,2017-07
+2016-09-27,South,Georgia,Corporate,Second Class,371.0,11.69,246.87,452.1,124.13,2016,2016-09
+2015-02-19,South,Virginia,Corporate,Standard Class,257.12,8.45,182.51,282.46,74.61,2015,2015-02
+2017-02-10,West,Oregon,Consumer,Standard Class,114.37,12.84,93.43,124.7,20.94,2017,2017-02
+2017-05-07,Central,Colorado,Corporate,Second Class,314.65,11.87,225.84,273.12,88.81,2017,2017-05
+2014-03-05,East,New Mexico,Consumer,Standard Class,352.4,12.64,219.11,420.21,133.29,2014,2014-03
+2014-06-05,East,New York,Consumer,Standard Class,99.16,19.65,66.29,86.13,32.87,2014,2014-06
+2016-08-30,South,Virginia,Consumer,Standard Class,125.33,10.11,102.23,122.25,23.1,2016,2016-08
+2017-12-30,South,Florida,Consumer,Standard Class,28.74,23.97,23.5,35.07,5.24,2017,2017-12
+2014-02-05,Central,Minnesota,Consumer,Standard Class,75.41,7.14,49.93,92.75,25.48,2014,2014-02
+2016-08-30,East,District of Columbia,Corporate,Standard Class,101.38,23.31,75.33,126.4,26.05,2016,2016-08
+2014-07-19,East,Alabama,Corporate,Second Class,202.97,8.84,128.96,211.2,74.01,2014,2014-07
+2016-08-07,East,New Mexico,Corporate,Standard Class,85.32,14.42,62.75,78.58,22.57,2016,2016-08
+2016-06-29,East,Maryland,Consumer,Second Class,123.17,11.73,79.47,128.73,43.7,2016,2016-06
+2014-05-13,East,District of Columbia,Corporate,Standard Class,67.25,12.54,52.71,59.91,14.54,2014,2014-05
+2016-09-21,West,Washington,Corporate,Standard Class,220.4,18.84,178.06,264.26,42.34,2016,2016-09
+2017-08-03,West,Oregon,Consumer,Standard Class,273.65,22.68,179.13,293.96,94.52,2017,2017-08
+2017-06-15,Central,Minnesota,Corporate,Standard Class,268.27,20.98,191.15,271.44,77.12,2017,2017-06
+2014-02-12,East,District of Columbia,Consumer,Standard Class,192.58,12.2,123.33,169.82,69.25,2014,2014-02
+2014-12-26,South,Tennessee,Consumer,Standard Class,51.42,15.44,35.37,52.04,16.05,2014,2014-12
+2014-12-18,Central,Texas,Consumer,First Class,112.51,10.13,71.22,134.62,41.29,2014,2014-12
+2015-10-25,West,Arizona,Consumer,First Class,134.8,8.98,90.71,152.51,44.09,2015,2015-10
+2014-07-28,West,California,Consumer,Standard Class,135.26,8.13,110.65,119.43,24.61,2014,2014-07
+2017-06-02,West,Oregon,Consumer,Standard Class,203.11,12.02,127.74,185.64,75.37,2017,2017-06
+2017-02-08,South,Tennessee,Consumer,Standard Class,640.15,15.8,506.87,644.58,133.28,2017,2017-02
+2017-03-26,West,Nevada,Home Office,First Class,380.04,3.92,241.51,338.44,138.53,2017,2017-03
+2014-10-17,East,District of Columbia,Consumer,Standard Class,82.32,14.18,59.75,100.73,22.57,2014,2014-10
+2014-01-22,South,Georgia,Consumer,Standard Class,339.22,22.77,240.99,376.85,98.23,2014,2014-01
+2017-08-23,South,Georgia,Consumer,Standard Class,328.41,20.6,264.8,291.6,63.61,2017,2017-08
+2015-02-27,West,Washington,Home Office,Standard Class,96.05,11.21,63.37,111.92,32.68,2015,2015-02
+2016-08-16,West,Washington,Corporate,Standard Class,392.11,6.75,257.2,391.08,134.91,2016,2016-08
+2017-08-21,West,Nevada,Home Office,First Class,166.28,16.96,127.99,157.62,38.29,2017,2017-08
+2014-02-22,West,Oregon,Consumer,First Class,57.49,1.68,43.99,61.97,13.5,2014,2014-02
+2014-01-08,West,Nevada,Consumer,Standard Class,280.6,20.54,213.21,240.01,67.39,2014,2014-01
+2014-01-08,East,New Mexico,Corporate,Standard Class,229.16,13.26,143.28,237.45,85.88,2014,2014-01
+2014-08-17,South,Georgia,Consumer,Standard Class,157.04,24.5,105.53,186.49,51.51,2014,2014-08
+2014-03-17,East,New York,Corporate,Standard Class,184.6,4.93,145.46,225.44,39.14,2014,2014-03
+2017-04-12,Central,Colorado,Home Office,Standard Class,103.42,19.48,76.55,102.08,26.87,2017,2017-04
+2016-06-04,West,Arizona,Consumer,Standard Class,320.09,13.88,237.01,354.33,83.08,2016,2016-06
+2017-12-02,Central,Missouri,Home Office,First Class,183.66,12.61,124.74,172.77,58.92,2017,2017-12
+2017-03-16,Central,Illinois,Corporate,Same Day,219.53,6.9,147.53,235.79,72.0,2017,2017-03
+2017-11-08,South,North Carolina,Consumer,Second Class,258.16,17.71,208.93,245.67,49.23,2017,2017-11
+2014-12-15,South,Virginia,Consumer,Second Class,71.42,18.15,54.68,77.03,16.74,2014,2014-12
+2015-02-25,East,Alabama,Consumer,Standard Class,89.11,24.25,57.51,81.86,31.6,2015,2015-02
+2017-05-25,West,California,Corporate,Standard Class,29.12,19.97,23.52,35.72,5.6,2017,2017-05
+2014-12-24,West,Oregon,Consumer,Standard Class,307.98,11.16,226.82,371.04,81.16,2014,2014-12
+2014-03-25,East,New York,Consumer,Second Class,68.01,8.91,46.7,66.97,21.31,2014,2014-03
+2016-09-04,South,Florida,Corporate,Standard Class,213.3,6.9,149.19,247.57,64.11,2016,2016-09
+2017-03-16,East,Alabama,Consumer,First Class,261.21,22.53,199.85,232.01,61.36,2017,2017-03
+2017-11-15,Central,Texas,Consumer,Standard Class,317.98,10.15,221.08,364.45,96.9,2017,2017-11
+2017-09-17,East,Maryland,Corporate,Standard Class,68.48,22.57,50.38,65.95,18.1,2017,2017-09
+2014-06-25,West,Oregon,Consumer,Standard Class,180.3,17.32,137.41,163.04,42.89,2014,2014-06
+2017-02-02,East,Alabama,Consumer,Same Day,788.19,16.24,519.48,883.78,268.71,2017,2017-02
+2017-05-21,Central,Colorado,Consumer,Standard Class,818.25,12.74,661.84,849.28,156.41,2017,2017-05
+2016-10-16,Central,Texas,Consumer,Standard Class,441.08,18.06,304.89,468.45,136.19,2016,2016-10
+2017-04-12,East,Alabama,Consumer,Standard Class,253.88,14.34,178.7,268.66,75.18,2017,2017-04
+2017-05-09,West,Arizona,Corporate,Second Class,81.1,12.4,61.61,70.86,19.49,2017,2017-05
+2015-10-15,Central,Missouri,Home Office,Same Day,351.01,18.26,260.36,305.57,90.65,2015,2015-10
+2014-02-28,West,Nevada,Consumer,Standard Class,166.61,13.64,117.96,181.68,48.65,2014,2014-02
+2015-10-29,South,North Carolina,Home Office,First Class,306.88,10.04,230.14,337.43,76.74,2015,2015-10
+2014-10-22,West,Arizona,Corporate,Standard Class,111.28,17.73,89.09,96.69,22.19,2014,2014-10
+2014-06-16,West,Oregon,Corporate,Second Class,164.52,14.08,128.33,164.75,36.19,2014,2014-06
+2014-07-02,East,New York,Corporate,Standard Class,219.1,17.12,171.96,239.95,47.14,2014,2014-07
+2016-10-15,East,District of Columbia,Corporate,Standard Class,234.94,11.93,157.8,261.41,77.14,2016,2016-10
+2016-01-08,East,Maryland,Corporate,Second Class,289.94,7.78,204.08,342.51,85.86,2016,2016-01
+2016-02-28,East,District of Columbia,Consumer,Standard Class,116.48,23.97,85.12,118.61,31.36,2016,2016-02
+2016-12-24,South,Georgia,Corporate,Standard Class,60.84,22.94,38.26,65.06,22.58,2016,2016-12
+2016-03-12,East,District of Columbia,Consumer,First Class,758.29,19.29,586.88,820.03,171.41,2016,2016-03
+2016-07-09,East,New Mexico,Consumer,Same Day,1581.08,12.3,1082.55,1541.27,498.53,2016,2016-07
+2014-05-06,East,New Mexico,Corporate,Standard Class,278.75,12.78,188.58,242.94,90.17,2014,2014-05
+2017-05-28,West,Washington,Consumer,Second Class,61.84,22.03,41.55,52.67,20.29,2017,2017-05
+2015-10-18,East,District of Columbia,Consumer,Second Class,98.77,12.48,66.84,116.99,31.93,2015,2015-10
+2014-08-15,West,California,Consumer,Standard Class,293.76,10.95,201.99,273.22,91.77,2014,2014-08
+2017-04-03,Central,Colorado,Consumer,First Class,595.83,24.73,441.49,656.67,154.34,2017,2017-04
+2016-12-09,West,Washington,Corporate,Standard Class,67.97,14.17,50.07,73.46,17.9,2016,2016-12
+2014-03-19,South,North Carolina,Corporate,Second Class,171.45,24.16,115.07,173.14,56.38,2014,2014-03
+2014-10-10,East,Maryland,Consumer,Standard Class,225.1,6.74,148.86,266.38,76.24,2014,2014-10
+2014-01-24,South,Virginia,Consumer,Standard Class,397.38,17.28,312.05,448.79,85.33,2014,2014-01
+2015-01-31,East,Maryland,Consumer,Standard Class,142.3,25.82,90.86,122.25,51.44,2015,2015-01
+2014-05-27,West,California,Consumer,Standard Class,50.44,14.59,36.45,58.54,13.99,2014,2014-05
+2016-11-03,South,Florida,Corporate,First Class,323.12,12.98,233.98,340.18,89.14,2016,2016-11
+2016-02-03,Central,Minnesota,Corporate,Same Day,495.75,8.01,364.29,490.2,131.46,2016,2016-02
+2017-12-03,Central,Illinois,Consumer,Standard Class,177.65,20.38,141.61,202.65,36.04,2017,2017-12
+2016-12-30,East,Maryland,Consumer,Standard Class,268.93,10.19,200.29,302.39,68.64,2016,2016-12
+2016-06-12,Central,Minnesota,Home Office,Standard Class,127.32,13.91,103.73,124.04,23.59,2016,2016-06
+2016-01-15,South,Georgia,Corporate,Standard Class,92.86,7.64,73.76,115.44,19.1,2016,2016-01
+2014-03-21,Central,Illinois,Consumer,Standard Class,455.99,22.99,302.3,505.91,153.69,2014,2014-03
+2014-04-13,East,Maryland,Consumer,First Class,264.91,20.78,177.02,289.36,87.89,2014,2014-04
+2016-06-19,Central,Illinois,Consumer,Second Class,289.11,14.26,199.18,253.82,89.93,2016,2016-06
+2014-01-07,Central,Minnesota,Home Office,Standard Class,683.21,8.08,477.09,657.06,206.12,2014,2014-01
+2014-03-03,South,North Carolina,Consumer,Standard Class,77.74,22.88,56.8,79.98,20.94,2014,2014-03
+2014-11-17,East,District of Columbia,Consumer,Second Class,119.2,12.42,79.45,131.39,39.75,2014,2014-11
+2017-07-15,East,Alabama,Home Office,Standard Class,217.95,8.35,144.82,229.96,73.13,2017,2017-07
+2015-11-02,Central,Texas,Corporate,Standard Class,117.96,4.74,82.13,136.27,35.83,2015,2015-11
+2016-11-02,East,Maryland,Consumer,Standard Class,370.8,10.88,279.73,354.12,91.07,2016,2016-11
+2015-08-25,Central,Illinois,Consumer,Standard Class,162.51,6.43,123.12,183.78,39.39,2015,2015-08
+2014-09-10,East,New Mexico,Consumer,Standard Class,81.97,11.0,66.82,96.45,15.15,2014,2014-09
+2015-06-27,West,Washington,Corporate,Second Class,201.52,18.52,133.1,232.96,68.42,2015,2015-06
+2014-05-15,Central,Missouri,Consumer,Standard Class,220.26,12.37,153.87,255.14,66.39,2014,2014-05
+2017-01-30,West,Washington,Home Office,Second Class,421.78,16.39,342.88,508.41,78.9,2017,2017-01
+2014-09-26,West,Oregon,Home Office,Standard Class,266.18,10.45,201.76,235.22,64.42,2014,2014-09
+2015-07-04,Central,Texas,Corporate,First Class,282.02,14.79,208.26,318.37,73.76,2015,2015-07
+2017-12-02,Central,Missouri,Corporate,Standard Class,250.2,24.99,182.13,309.62,68.07,2017,2017-12
+2016-05-14,South,Tennessee,Consumer,Standard Class,162.39,12.51,103.13,175.29,59.26,2016,2016-05
+2015-11-01,West,Nevada,Consumer,Standard Class,103.67,16.54,82.8,97.13,20.87,2015,2015-11
+2016-03-04,West,Washington,Corporate,Standard Class,243.6,5.82,181.51,304.38,62.09,2016,2016-03
+2017-02-19,South,Florida,Consumer,Standard Class,143.57,22.79,105.43,132.07,38.14,2017,2017-02
+2015-01-07,West,Nevada,Consumer,Second Class,801.39,11.81,583.33,788.75,218.06,2015,2015-01
+2016-07-18,West,Oregon,Consumer,Standard Class,596.37,20.21,416.49,547.96,179.88,2016,2016-07
+2017-06-29,West,Arizona,Consumer,Standard Class,326.33,13.75,218.95,338.01,107.38,2017,2017-06
+2016-04-16,East,Alabama,Consumer,Standard Class,262.88,17.79,202.7,267.49,60.18,2016,2016-04
+2015-10-15,South,North Carolina,Corporate,Second Class,176.84,18.12,127.66,185.06,49.18,2015,2015-10
+2014-08-01,Central,Missouri,Corporate,First Class,65.24,11.94,40.89,79.67,24.35,2014,2014-08
+2014-12-29,Central,Missouri,Corporate,Second Class,158.58,20.44,110.98,165.13,47.6,2014,2014-12
+2017-10-14,West,Oregon,Home Office,Standard Class,207.72,10.26,167.36,219.32,40.36,2017,2017-10
+2016-03-01,East,New York,Consumer,Second Class,231.61,18.71,160.92,279.01,70.69,2016,2016-03
+2015-03-17,East,New York,Home Office,Second Class,284.04,12.28,199.58,334.34,84.46,2015,2015-03
+2015-09-04,West,Oregon,Consumer,Standard Class,417.02,16.35,310.59,394.45,106.43,2015,2015-09
+2016-04-24,West,Oregon,Consumer,Standard Class,105.81,11.89,82.57,90.49,23.24,2016,2016-04
+2016-02-25,West,California,Home Office,Second Class,106.63,14.7,80.37,117.48,26.26,2016,2016-02
+2016-10-19,West,California,Consumer,Standard Class,654.08,8.52,516.73,777.01,137.35,2016,2016-10
+2015-01-12,East,Alabama,Consumer,Second Class,366.99,15.79,235.9,393.1,131.09,2015,2015-01
+2016-08-06,Central,Minnesota,Consumer,Standard Class,136.71,14.67,110.04,127.75,26.67,2016,2016-08
+2015-10-09,West,California,Consumer,Standard Class,173.97,11.46,139.31,199.46,34.66,2015,2015-10
+2017-10-06,East,New Mexico,Consumer,Standard Class,174.63,14.13,126.4,195.2,48.23,2017,2017-10
+2014-08-19,Central,Texas,Corporate,Second Class,195.75,15.17,145.82,210.63,49.93,2014,2014-08
+2014-08-05,Central,Minnesota,Home Office,First Class,284.8,11.04,188.7,340.43,96.1,2014,2014-08
+2015-11-06,Central,Missouri,Consumer,Standard Class,1643.76,13.72,1166.39,1912.84,477.37,2015,2015-11
+2016-01-13,East,District of Columbia,Corporate,Standard Class,223.92,8.9,147.91,250.16,76.01,2016,2016-01
+2016-10-06,South,North Carolina,Consumer,Standard Class,334.69,27.33,208.98,373.48,125.71,2016,2016-10
+2015-08-14,West,Nevada,Home Office,Standard Class,45.44,20.26,37.09,50.66,8.35,2015,2015-08
+2017-08-27,East,District of Columbia,Consumer,Same Day,126.2,15.93,84.78,133.78,41.42,2017,2017-08
+2015-11-24,West,Nevada,Consumer,Standard Class,541.58,20.88,400.02,560.84,141.56,2015,2015-11
+2014-07-08,East,New Mexico,Consumer,Standard Class,268.26,3.54,182.43,304.16,85.83,2014,2014-07
+2014-06-24,East,Alabama,Corporate,Standard Class,4.57,0.36,3.17,5.0,1.4,2014,2014-06
+2017-11-23,West,Oregon,Corporate,Same Day,337.96,12.23,236.42,353.5,101.54,2017,2017-11
+2014-07-15,Central,Missouri,Corporate,Standard Class,973.05,6.85,668.49,876.39,304.56,2014,2014-07
+2017-10-16,West,Oregon,Corporate,Second Class,34.93,13.13,26.11,39.5,8.82,2017,2017-10
+2015-02-11,West,Arizona,Consumer,Standard Class,693.31,15.56,563.1,768.46,130.21,2015,2015-02
+2014-05-17,West,California,Consumer,Standard Class,18.06,19.49,12.75,17.82,5.31,2014,2014-05
+2015-03-22,East,New York,Consumer,Second Class,422.97,8.17,344.58,419.81,78.39,2015,2015-03
+2016-06-17,West,California,Consumer,Standard Class,189.17,16.63,142.55,179.46,46.62,2016,2016-06
+2015-09-18,East,New Mexico,Consumer,Second Class,25.86,14.51,19.17,31.93,6.69,2015,2015-09
+2017-02-21,West,Nevada,Consumer,Standard Class,278.44,16.34,185.84,332.48,92.6,2017,2017-02
+2016-06-11,Central,Illinois,Consumer,Second Class,506.85,11.57,320.63,544.57,186.22,2016,2016-06
+2015-08-09,South,Florida,Corporate,Second Class,259.64,22.04,205.22,262.41,54.42,2015,2015-08
+2016-07-16,East,District of Columbia,Consumer,Second Class,313.28,13.86,230.2,358.62,83.08,2016,2016-07
+2017-11-20,Central,Minnesota,Corporate,Standard Class,134.3,24.19,94.4,142.5,39.9,2017,2017-11
+2015-08-25,South,Virginia,Corporate,Second Class,39.17,10.08,30.65,48.58,8.52,2015,2015-08
+2014-08-13,South,North Carolina,Consumer,Same Day,343.12,18.52,234.05,299.22,109.07,2014,2014-08
+2015-08-21,Central,Colorado,Consumer,Standard Class,843.27,14.1,654.99,728.34,188.28,2015,2015-08
+2017-05-12,South,Florida,Corporate,Standard Class,497.77,12.63,341.27,536.32,156.5,2017,2017-05
+2014-11-14,South,Florida,Corporate,First Class,35.17,17.91,28.28,32.75,6.89,2014,2014-11
+2017-10-18,Central,Missouri,Consumer,Standard Class,52.58,12.78,35.42,57.4,17.16,2017,2017-10
+2016-05-09,East,Maryland,Consumer,Second Class,92.84,-0.21,60.11,107.93,32.73,2016,2016-05
+2016-05-28,West,Nevada,Corporate,Second Class,49.2,-2.42,37.37,44.54,11.83,2016,2016-05
+2015-04-09,West,Nevada,Corporate,Standard Class,197.86,21.43,129.12,203.05,68.74,2015,2015-04
+2017-09-06,East,Maryland,Consumer,Standard Class,266.24,21.2,215.62,299.64,50.62,2017,2017-09
+2014-02-22,East,Maryland,Consumer,Standard Class,56.5,24.81,42.44,66.87,14.06,2014,2014-02
+2015-03-13,East,Alabama,Home Office,Standard Class,368.91,14.33,245.76,386.82,123.15,2015,2015-03
+2015-09-04,East,New York,Consumer,First Class,317.65,7.32,210.21,296.2,107.44,2015,2015-09
+2015-11-29,East,New Mexico,Home Office,Standard Class,119.59,12.12,96.24,129.67,23.35,2015,2015-11
+2015-11-24,South,Tennessee,Consumer,Standard Class,164.57,14.49,122.04,169.8,42.53,2015,2015-11
+2014-08-05,West,Nevada,Consumer,First Class,36.33,8.89,29.02,42.1,7.31,2014,2014-08
+2014-11-26,West,Nevada,Consumer,Standard Class,143.68,23.5,92.25,154.06,51.43,2014,2014-11
+2014-05-20,Central,Texas,Consumer,First Class,191.77,26.75,154.39,184.44,37.38,2014,2014-05
+2016-04-16,South,Florida,Home Office,Standard Class,219.96,17.06,159.25,253.34,60.71,2016,2016-04
+2015-05-28,South,Georgia,Consumer,Standard Class,262.97,14.37,198.2,277.99,64.77,2015,2015-05
+2016-04-06,South,Georgia,Home Office,Standard Class,234.54,7.31,162.91,216.02,71.63,2016,2016-04
+2016-05-11,South,Florida,Consumer,Second Class,152.22,22.94,96.18,163.67,56.04,2016,2016-05
+2016-10-22,West,Arizona,Home Office,Second Class,243.05,14.85,197.26,298.79,45.79,2016,2016-10
+2016-03-10,East,New York,Home Office,First Class,446.63,12.84,365.75,505.68,80.88,2016,2016-03
+2016-08-04,West,Nevada,Corporate,Same Day,175.71,17.08,121.75,170.35,53.96,2016,2016-08
+2016-05-07,Central,Colorado,Consumer,Second Class,249.62,11.21,201.89,283.16,47.73,2016,2016-05
+2016-08-11,South,Virginia,Corporate,Second Class,162.68,15.24,106.32,156.67,56.36,2016,2016-08
+2016-06-19,East,Maryland,Corporate,Standard Class,109.98,6.5,71.59,117.36,38.39,2016,2016-06
+2015-04-07,East,Maryland,Home Office,First Class,297.21,20.41,188.62,315.23,108.59,2015,2015-04
+2014-12-26,West,Nevada,Consumer,Second Class,118.87,13.86,83.0,112.8,35.87,2014,2014-12
+2017-02-24,West,Washington,Consumer,First Class,264.6,20.8,166.82,261.73,97.78,2017,2017-02
+2015-05-16,West,Nevada,Consumer,Standard Class,195.2,13.32,136.43,239.49,58.77,2015,2015-05
+2016-03-13,West,California,Corporate,Standard Class,147.18,13.68,95.33,139.86,51.85,2016,2016-03
+2014-10-15,South,Florida,Home Office,Second Class,144.18,7.76,110.46,168.75,33.72,2014,2014-10
+2015-09-23,East,Alabama,Consumer,Standard Class,123.73,18.61,97.33,138.2,26.4,2015,2015-09
+2016-02-13,South,Virginia,Corporate,Standard Class,47.04,9.61,35.64,50.01,11.4,2016,2016-02
+2016-07-03,Central,Texas,Home Office,Same Day,263.87,11.75,174.18,238.8,89.69,2016,2016-07
+2016-02-09,West,Arizona,Consumer,Standard Class,232.02,14.44,179.44,216.2,52.58,2016,2016-02
+2015-06-11,West,California,Consumer,Standard Class,392.38,15.1,262.86,361.61,129.52,2015,2015-06
+2017-11-06,Central,Missouri,Corporate,Standard Class,121.3,5.05,93.63,131.58,27.67,2017,2017-11
+2016-01-20,West,Nevada,Corporate,Standard Class,954.39,13.16,700.03,1182.83,254.36,2016,2016-01
+2017-03-26,South,Tennessee,Consumer,Second Class,138.0,18.8,95.68,165.72,42.32,2017,2017-03
+2016-12-12,West,Arizona,Home Office,First Class,90.57,12.35,57.67,77.9,32.9,2016,2016-12
+2016-03-26,Central,Illinois,Corporate,Same Day,81.89,13.19,64.32,78.57,17.57,2016,2016-03
+2017-07-19,Central,Minnesota,Home Office,Second Class,43.65,15.32,35.27,39.85,8.38,2017,2017-07
+2014-07-07,West,Washington,Home Office,Second Class,701.16,13.74,528.1,869.63,173.06,2014,2014-07
+2017-09-07,West,Oregon,Corporate,Standard Class,611.19,8.76,496.84,577.11,114.35,2017,2017-09
+2017-05-27,South,Georgia,Consumer,First Class,317.55,14.23,256.21,295.49,61.34,2017,2017-05
+2016-01-06,West,Oregon,Consumer,Standard Class,88.97,19.9,58.62,97.72,30.35,2016,2016-01
+2016-12-07,East,District of Columbia,Consumer,Standard Class,888.54,8.65,680.84,952.94,207.7,2016,2016-12
+2016-01-31,East,New Mexico,Consumer,Same Day,141.32,12.37,97.49,132.89,43.83,2016,2016-01
+2015-01-28,West,California,Corporate,First Class,151.61,6.83,108.78,169.52,42.83,2015,2015-01
+2017-03-14,Central,Illinois,Consumer,Standard Class,646.56,19.61,421.16,574.66,225.4,2017,2017-03
+2014-12-26,Central,Minnesota,Consumer,Second Class,333.64,13.92,271.9,286.18,61.74,2014,2014-12
+2015-04-05,East,New Mexico,Consumer,Standard Class,1237.61,9.75,947.05,1092.77,290.56,2015,2015-04
+2016-01-29,South,North Carolina,Consumer,Standard Class,235.43,14.94,158.53,234.48,76.9,2016,2016-01
+2017-05-08,West,Oregon,Consumer,Standard Class,135.98,7.81,94.41,168.62,41.57,2017,2017-05
+2015-07-15,West,Washington,Corporate,Standard Class,113.29,8.75,79.81,121.1,33.48,2015,2015-07
+2015-12-23,East,New Mexico,Corporate,Standard Class,39.65,6.4,30.51,45.67,9.14,2015,2015-12
+2014-03-02,South,Virginia,Consumer,Standard Class,150.38,8.56,121.08,147.16,29.3,2014,2014-03
+2014-06-19,West,Arizona,Home Office,Standard Class,504.17,21.9,345.0,573.61,159.17,2014,2014-06
+2014-03-23,West,Nevada,Home Office,Standard Class,317.03,10.4,226.52,392.0,90.51,2014,2014-03
+2014-04-16,East,District of Columbia,Consumer,First Class,193.88,16.99,143.21,192.54,50.67,2014,2014-04
+2017-06-22,Central,Missouri,Corporate,Second Class,81.8,9.83,57.15,102.22,24.65,2017,2017-06
+2017-05-15,West,California,Consumer,First Class,231.1,18.61,166.59,255.45,64.51,2017,2017-05
+2017-04-15,East,Maryland,Consumer,Standard Class,450.74,8.79,288.99,518.1,161.75,2017,2017-04
+2014-03-23,Central,Illinois,Corporate,Second Class,274.82,14.65,179.6,261.32,95.22,2014,2014-03
+2014-04-24,East,New York,Consumer,First Class,219.58,14.72,153.75,243.13,65.83,2014,2014-04
+2015-02-14,West,California,Home Office,Standard Class,96.79,27.23,77.72,102.06,19.07,2015,2015-02
+2016-04-05,West,Nevada,Home Office,Standard Class,398.26,17.9,274.75,490.88,123.51,2016,2016-04
+2015-05-04,East,Maryland,Home Office,Standard Class,13.3,11.17,8.91,16.12,4.39,2015,2015-05
+2015-12-14,East,New York,Corporate,Standard Class,263.86,18.2,202.8,266.15,61.06,2015,2015-12
+2014-09-10,South,Georgia,Corporate,Standard Class,1693.87,26.19,1371.74,2081.34,322.13,2014,2014-09
+2016-12-03,Central,Illinois,Home Office,Standard Class,52.87,5.47,37.63,63.65,15.24,2016,2016-12
+2015-04-04,Central,Texas,Consumer,Standard Class,155.22,9.8,96.5,168.59,58.72,2015,2015-04
+2014-04-08,South,Florida,Consumer,Second Class,189.29,13.13,143.41,167.11,45.88,2014,2014-04
+2016-12-21,East,Alabama,Corporate,Standard Class,128.61,12.14,90.41,117.59,38.2,2016,2016-12
+2017-08-11,East,District of Columbia,Consumer,Standard Class,459.86,12.6,347.07,405.02,112.79,2017,2017-08
+2014-01-22,South,North Carolina,Consumer,Second Class,284.74,7.26,192.35,254.33,92.39,2014,2014-01
+2015-09-30,West,Nevada,Consumer,Standard Class,216.9,22.15,134.58,269.13,82.32,2015,2015-09
+2017-04-23,Central,Missouri,Corporate,Standard Class,375.28,6.61,258.53,350.84,116.75,2017,2017-04
+2016-10-28,Central,Missouri,Consumer,Standard Class,193.3,13.33,147.09,217.72,46.21,2016,2016-10
+2017-06-05,West,California,Consumer,Standard Class,2843.77,20.18,1986.72,3141.26,857.05,2017,2017-06
+2015-08-30,East,District of Columbia,Consumer,Standard Class,216.73,14.26,143.87,238.94,72.86,2015,2015-08
+2015-06-28,West,California,Consumer,Standard Class,224.98,9.04,160.37,209.83,64.61,2015,2015-06
+2016-11-02,West,California,Home Office,Standard Class,44.53,7.01,34.31,48.17,10.22,2016,2016-11
+2014-08-13,East,New Mexico,Consumer,Same Day,120.07,13.17,77.31,132.1,42.76,2014,2014-08
+2014-12-16,West,Nevada,Corporate,First Class,505.36,10.27,383.24,544.86,122.12,2014,2014-12
+2016-05-27,Central,Texas,Corporate,Standard Class,61.24,15.56,46.14,56.61,15.1,2016,2016-05
+2016-09-03,South,Georgia,Consumer,Standard Class,30.45,6.72,21.14,34.69,9.31,2016,2016-09
+2014-06-24,Central,Illinois,Home Office,Standard Class,195.87,18.9,159.45,172.23,36.42,2014,2014-06
+2016-01-13,West,Washington,Corporate,First Class,611.02,15.07,488.17,663.86,122.85,2016,2016-01
+2015-06-18,West,Arizona,Corporate,First Class,197.56,15.47,134.98,202.4,62.58,2015,2015-06
+2016-01-04,West,Washington,Consumer,Standard Class,143.21,22.36,89.68,136.07,53.53,2016,2016-01
+2017-11-01,West,Washington,Consumer,Standard Class,39.26,12.02,26.76,46.05,12.5,2017,2017-11
+2014-04-22,South,Florida,Home Office,Standard Class,279.9,10.44,185.0,257.61,94.9,2014,2014-04
+2017-12-25,East,New York,Corporate,First Class,334.32,11.42,243.87,408.94,90.45,2017,2017-12
+2015-10-19,West,California,Home Office,First Class,41.91,13.37,33.69,50.45,8.22,2015,2015-10
+2017-02-02,South,North Carolina,Home Office,Standard Class,499.87,13.93,396.93,496.99,102.94,2017,2017-02
+2015-09-13,East,New Mexico,Consumer,Standard Class,365.34,9.86,248.86,355.13,116.48,2015,2015-09
+2015-03-31,West,Oregon,Corporate,Standard Class,498.93,3.3,352.1,451.53,146.83,2015,2015-03
+2017-01-30,West,Arizona,Consumer,Second Class,312.94,11.34,196.31,380.7,116.63,2017,2017-01
+2016-10-01,Central,Colorado,Corporate,First Class,332.16,16.41,242.09,365.71,90.07,2016,2016-10
+2014-07-30,Central,Texas,Consumer,Standard Class,296.67,15.18,187.7,255.94,108.97,2014,2014-07
+2016-10-27,West,Washington,Consumer,Standard Class,398.7,21.03,322.04,420.39,76.66,2016,2016-10
+2017-01-05,South,Georgia,Corporate,Standard Class,40.61,25.19,32.22,35.91,8.39,2017,2017-01
+2015-07-21,South,Tennessee,Corporate,Standard Class,53.2,18.61,35.26,57.43,17.94,2015,2015-07
+2017-09-14,South,Georgia,Corporate,First Class,101.94,22.03,77.46,107.4,24.48,2017,2017-09
+2016-07-25,West,California,Consumer,Standard Class,170.66,18.65,125.2,150.72,45.46,2016,2016-07
+2015-05-03,West,Nevada,Consumer,First Class,265.05,23.83,206.81,311.79,58.24,2015,2015-05
+2014-01-16,South,North Carolina,Home Office,Standard Class,251.13,24.61,179.59,239.81,71.54,2014,2014-01
+2016-09-13,West,California,Consumer,Standard Class,492.52,19.66,324.25,525.32,168.27,2016,2016-09
+2014-11-02,Central,Minnesota,Consumer,Standard Class,505.84,18.32,378.35,559.26,127.49,2014,2014-11
+2017-01-10,Central,Illinois,Corporate,Standard Class,90.78,13.3,57.74,112.11,33.04,2017,2017-01
+2016-02-07,West,Arizona,Consumer,Standard Class,233.41,14.2,172.0,244.5,61.41,2016,2016-02
+2015-11-13,Central,Missouri,Corporate,Second Class,92.7,12.57,61.42,112.81,31.28,2015,2015-11
+2014-08-28,South,Georgia,Consumer,Standard Class,162.39,17.85,122.93,161.08,39.46,2014,2014-08
+2016-11-05,Central,Colorado,Home Office,Standard Class,250.52,10.47,196.81,298.86,53.71,2016,2016-11
+2014-08-31,East,New Mexico,Home Office,Standard Class,10.51,13.38,6.75,9.92,3.76,2014,2014-08
+2015-09-03,South,Virginia,Home Office,Standard Class,1479.64,1.48,1035.83,1676.42,443.81,2015,2015-09
+2017-05-06,East,New York,Corporate,First Class,308.42,23.91,236.47,273.09,71.95,2017,2017-05
+2017-09-06,Central,Illinois,Consumer,First Class,114.85,13.22,74.97,142.92,39.88,2017,2017-09
+2017-12-16,South,Florida,Corporate,Standard Class,980.7,16.94,719.15,1207.81,261.55,2017,2017-12
+2017-10-31,Central,Minnesota,Home Office,Second Class,141.84,22.45,107.0,145.65,34.84,2017,2017-10
+2016-03-23,West,California,Corporate,Second Class,213.29,16.08,147.37,226.0,65.92,2016,2016-03
+2014-10-20,West,Oregon,Corporate,Same Day,125.96,22.37,99.05,137.18,26.91,2014,2014-10
+2017-05-10,West,Nevada,Corporate,Standard Class,776.03,7.6,560.4,745.0,215.63,2017,2017-05
+2017-03-17,East,District of Columbia,Corporate,Standard Class,174.3,27.62,129.92,195.18,44.38,2017,2017-03
+2017-12-17,East,Maryland,Corporate,Standard Class,216.39,20.41,140.26,244.4,76.13,2017,2017-12
+2016-08-09,East,New York,Consumer,First Class,530.18,15.58,331.17,562.01,199.01,2016,2016-08
+2014-07-26,East,Alabama,Consumer,Second Class,313.36,22.27,197.46,284.87,115.9,2014,2014-07
+2016-01-05,Central,Texas,Corporate,Standard Class,181.96,8.0,145.71,221.57,36.25,2016,2016-01
+2015-10-17,South,Florida,Consumer,Standard Class,489.72,12.84,390.08,438.8,99.64,2015,2015-10
+2017-05-16,West,Arizona,Home Office,Second Class,1648.65,22.37,1288.45,1816.27,360.2,2017,2017-05
+2015-07-28,Central,Missouri,Corporate,First Class,249.58,4.16,164.7,222.43,84.88,2015,2015-07
+2015-04-26,Central,Minnesota,Consumer,Standard Class,210.45,17.51,152.6,191.18,57.85,2015,2015-04
+2014-04-27,East,District of Columbia,Corporate,Second Class,220.31,17.36,171.67,189.07,48.64,2014,2014-04
+2017-05-05,West,California,Corporate,Standard Class,580.49,25.26,438.23,577.79,142.26,2017,2017-05
+2017-01-08,Central,Texas,Corporate,Standard Class,114.51,5.72,73.64,126.63,40.87,2017,2017-01
+2014-03-02,South,Georgia,Consumer,Standard Class,150.42,23.28,120.2,159.24,30.22,2014,2014-03
+2015-09-26,Central,Texas,Home Office,Second Class,51.58,11.35,33.64,57.76,17.94,2015,2015-09
+2015-12-02,South,Tennessee,Consumer,Same Day,69.67,11.97,45.59,78.03,24.08,2015,2015-12
+2015-11-17,South,Florida,Corporate,Standard Class,122.72,7.71,98.2,111.19,24.52,2015,2015-11
+2017-09-04,East,New Mexico,Consumer,Standard Class,181.72,8.45,130.28,158.63,51.44,2017,2017-09
+2014-08-09,Central,Missouri,Corporate,Standard Class,857.24,16.65,595.42,943.09,261.82,2014,2014-08
+2015-03-24,East,Alabama,Corporate,Standard Class,300.54,8.31,219.61,333.99,80.93,2015,2015-03
+2014-09-22,South,Georgia,Corporate,Standard Class,87.77,18.5,71.64,94.15,16.13,2014,2014-09
+2014-12-23,West,Oregon,Consumer,Standard Class,102.64,10.78,66.09,97.33,36.55,2014,2014-12
+2017-08-18,East,New Mexico,Corporate,Standard Class,613.11,7.76,472.95,719.98,140.16,2017,2017-08
+2017-10-06,South,Virginia,Corporate,Standard Class,496.52,11.53,341.04,437.07,155.48,2017,2017-10
+2014-03-07,West,Oregon,Consumer,Standard Class,195.18,16.28,125.58,215.27,69.6,2014,2014-03
+2016-07-12,Central,Illinois,Home Office,Second Class,130.82,12.9,92.15,117.5,38.67,2016,2016-07
+2014-12-07,East,Alabama,Corporate,Standard Class,495.81,14.62,361.82,551.23,133.99,2014,2014-12
+2014-10-09,South,Tennessee,Home Office,Second Class,81.91,18.26,54.16,83.31,27.75,2014,2014-10
+2015-03-03,South,North Carolina,Home Office,First Class,265.93,20.38,186.43,302.43,79.5,2015,2015-03
+2014-10-11,West,California,Home Office,Standard Class,1315.22,12.72,982.65,1145.39,332.57,2014,2014-10
+2015-12-18,Central,Colorado,Corporate,Standard Class,226.91,8.69,166.84,243.26,60.07,2015,2015-12
+2017-12-25,East,District of Columbia,Corporate,Standard Class,98.57,14.85,75.37,89.5,23.2,2017,2017-12
+2016-05-06,Central,Missouri,Consumer,Second Class,270.11,17.02,212.65,303.32,57.46,2016,2016-05
+2016-11-22,Central,Colorado,Corporate,Standard Class,127.8,6.4,89.69,114.76,38.11,2016,2016-11
+2015-12-22,South,Florida,Corporate,Standard Class,58.26,9.53,41.05,51.24,17.21,2015,2015-12
+2014-01-21,West,Oregon,Corporate,Standard Class,345.81,10.47,248.75,392.58,97.06,2014,2014-01
+2014-05-03,West,Arizona,Home Office,Standard Class,492.83,13.29,361.38,431.43,131.45,2014,2014-05
+2015-01-28,Central,Missouri,Consumer,Standard Class,146.31,10.24,93.88,137.5,52.43,2015,2015-01
+2014-12-22,East,New York,Consumer,Second Class,138.29,18.32,94.39,163.17,43.9,2014,2014-12
+2017-05-13,East,Maryland,Consumer,Standard Class,84.16,5.6,55.07,98.79,29.09,2017,2017-05
+2017-05-17,West,Oregon,Consumer,Standard Class,167.76,5.74,116.96,199.91,50.8,2017,2017-05
+2017-06-01,East,New York,Consumer,First Class,118.15,12.59,96.25,115.84,21.9,2017,2017-06
+2016-07-20,South,Tennessee,Consumer,Standard Class,80.69,13.46,59.43,85.63,21.26,2016,2016-07
+2016-03-23,West,California,Home Office,Second Class,951.79,6.43,671.85,1103.45,279.94,2016,2016-03
+2016-08-06,East,Alabama,Consumer,Standard Class,283.3,11.09,207.71,256.33,75.59,2016,2016-08
+2015-08-18,South,Tennessee,Consumer,Standard Class,309.99,12.22,233.68,353.31,76.31,2015,2015-08
+2016-09-06,West,Nevada,Consumer,First Class,403.79,12.27,285.48,358.97,118.31,2016,2016-09
+2017-03-06,Central,Minnesota,Consumer,Standard Class,367.01,15.27,260.41,446.03,106.6,2017,2017-03
+2017-01-19,West,Washington,Consumer,Standard Class,134.14,10.79,101.98,148.21,32.16,2017,2017-01
+2016-06-15,South,Tennessee,Corporate,First Class,240.25,22.56,151.88,251.62,88.37,2016,2016-06
+2014-03-26,Central,Colorado,Corporate,Second Class,151.61,17.12,110.37,158.26,41.24,2014,2014-03
+2016-11-25,South,Florida,Consumer,Second Class,276.63,9.99,201.79,255.2,74.84,2016,2016-11
+2015-06-20,West,Washington,Corporate,Standard Class,254.79,14.95,196.53,251.83,58.26,2015,2015-06
+2016-12-22,East,Maryland,Consumer,Standard Class,137.65,15.11,112.4,157.04,25.25,2016,2016-12
+2016-02-28,Central,Colorado,Consumer,Second Class,61.57,21.11,47.97,65.66,13.6,2016,2016-02
+2017-07-11,West,Washington,Home Office,Standard Class,215.79,11.13,155.53,229.11,60.26,2017,2017-07
+2015-05-10,West,Oregon,Corporate,Standard Class,160.19,18.65,104.75,148.67,55.44,2015,2015-05
+2017-09-22,West,Oregon,Home Office,Second Class,38.21,14.66,28.19,43.03,10.02,2017,2017-09
+2017-05-18,South,Georgia,Consumer,Standard Class,293.39,22.63,230.86,295.39,62.53,2017,2017-05
+2015-04-29,Central,Minnesota,Consumer,Standard Class,432.91,21.53,349.13,399.62,83.78,2015,2015-04
+2015-12-07,Central,Illinois,Consumer,Standard Class,1634.52,15.51,1283.2,2006.4,351.32,2015,2015-12
+2016-02-16,Central,Minnesota,Consumer,Standard Class,136.66,12.99,89.89,143.86,46.77,2016,2016-02
+2017-01-27,East,Maryland,Home Office,Second Class,120.55,17.22,91.92,127.93,28.63,2017,2017-01
+2016-10-03,East,District of Columbia,Consumer,First Class,74.22,13.44,59.08,92.22,15.14,2016,2016-10
+2017-05-29,East,Maryland,Home Office,Standard Class,227.54,23.67,172.07,226.76,55.47,2017,2017-05
+2015-06-25,Central,Texas,Home Office,Standard Class,226.32,14.86,171.36,277.74,54.96,2015,2015-06
+2016-01-08,West,California,Corporate,Standard Class,95.62,12.2,68.85,107.86,26.77,2016,2016-01
+2015-09-22,South,Tennessee,Consumer,Standard Class,164.24,11.9,122.75,181.2,41.49,2015,2015-09
+2017-08-21,Central,Missouri,Consumer,Standard Class,35.45,7.76,24.07,33.46,11.38,2017,2017-08
+2015-03-22,East,Maryland,Consumer,First Class,418.81,17.49,267.1,364.66,151.71,2015,2015-03
+2016-05-07,East,Alabama,Corporate,Standard Class,98.98,9.92,77.75,101.47,21.23,2016,2016-05
+2014-06-25,West,Oregon,Consumer,Standard Class,185.03,20.47,149.62,158.03,35.41,2014,2014-06
+2017-05-27,South,Florida,Home Office,Same Day,56.67,7.32,44.85,49.78,11.82,2017,2017-05
+2015-07-16,South,North Carolina,Corporate,Standard Class,116.16,15.13,79.78,126.4,36.38,2015,2015-07
+2015-05-13,South,Virginia,Consumer,First Class,150.26,20.76,95.97,171.26,54.29,2015,2015-05
+2016-05-01,East,District of Columbia,Corporate,Standard Class,188.75,2.59,127.6,173.12,61.15,2016,2016-05
+2015-12-30,West,Arizona,Consumer,Standard Class,286.51,25.53,225.93,327.48,60.58,2015,2015-12
+2017-05-23,West,California,Home Office,First Class,647.56,12.09,486.42,796.43,161.14,2017,2017-05
+2016-02-16,West,Washington,Consumer,Standard Class,355.24,15.21,288.93,407.56,66.31,2016,2016-02
+2016-01-26,West,Oregon,Home Office,Standard Class,431.75,17.57,297.28,502.51,134.47,2016,2016-01
+2014-06-03,West,California,Corporate,Standard Class,651.44,18.42,475.74,736.31,175.7,2014,2014-06
+2014-02-02,South,North Carolina,Home Office,Second Class,309.28,15.94,240.62,290.69,68.66,2014,2014-02
+2015-08-06,West,California,Consumer,Standard Class,184.71,19.92,123.16,183.67,61.55,2015,2015-08
+2017-12-29,West,California,Home Office,Standard Class,449.32,17.28,365.22,552.53,84.1,2017,2017-12
+2017-09-02,South,Florida,Consumer,Second Class,474.4,24.11,350.33,528.71,124.07,2017,2017-09
+2016-07-07,East,Maryland,Corporate,Second Class,330.72,17.3,205.57,385.49,125.15,2016,2016-07
+2016-07-10,Central,Minnesota,Consumer,Standard Class,55.34,25.24,34.59,68.48,20.75,2016,2016-07
+2015-07-26,Central,Texas,Consumer,Standard Class,93.2,19.39,74.23,87.85,18.97,2015,2015-07
+2014-09-17,South,Tennessee,Consumer,Standard Class,150.86,4.5,113.0,147.64,37.86,2014,2014-09
+2014-01-13,Central,Illinois,Consumer,Standard Class,369.69,28.79,285.63,409.59,84.06,2014,2014-01
+2015-05-11,East,New York,Consumer,Standard Class,187.14,11.27,145.37,160.89,41.77,2015,2015-05
+2015-04-08,Central,Illinois,Home Office,Standard Class,500.87,22.66,352.66,540.18,148.21,2015,2015-04
+2014-10-07,East,Alabama,Consumer,Standard Class,582.86,14.58,454.47,683.97,128.39,2014,2014-10
+2015-01-14,East,New York,Corporate,Standard Class,528.1,20.27,426.44,577.84,101.66,2015,2015-01
+2014-02-06,East,New York,Consumer,Second Class,530.97,10.64,347.48,514.06,183.49,2014,2014-02
+2016-06-07,West,Arizona,Corporate,Standard Class,78.93,17.87,61.0,89.95,17.93,2016,2016-06
+2017-09-17,Central,Colorado,Corporate,Same Day,287.22,13.04,195.76,260.91,91.46,2017,2017-09
+2016-10-06,West,Washington,Consumer,First Class,113.7,23.11,77.8,137.34,35.9,2016,2016-10
+2015-10-17,West,Nevada,Corporate,Second Class,46.91,16.84,32.96,41.77,13.95,2015,2015-10
+2015-09-07,West,Arizona,Home Office,Same Day,149.25,19.58,118.32,178.41,30.93,2015,2015-09
+2015-03-26,South,Georgia,Corporate,First Class,587.59,2.53,366.9,616.45,220.69,2015,2015-03
+2014-07-28,East,New Mexico,Consumer,Standard Class,281.92,13.96,199.26,287.97,82.66,2014,2014-07
+2016-05-24,Central,Texas,Consumer,Second Class,1059.06,16.69,800.66,1112.29,258.4,2016,2016-05
+2016-04-07,South,Georgia,Corporate,Standard Class,221.55,15.66,142.25,206.06,79.3,2016,2016-04
+2014-01-11,West,Oregon,Consumer,Second Class,1526.35,19.72,1188.19,1576.83,338.16,2014,2014-01
+2015-08-31,Central,Texas,Corporate,Standard Class,221.6,12.42,179.14,263.68,42.46,2015,2015-08
+2015-02-11,West,Arizona,Consumer,Standard Class,194.24,14.7,123.96,227.34,70.28,2015,2015-02
+2014-09-06,West,Arizona,Corporate,Standard Class,64.23,20.93,41.79,58.78,22.44,2014,2014-09
+2016-10-24,Central,Illinois,Consumer,Same Day,489.79,1.9,399.09,548.26,90.7,2016,2016-10
+2016-02-08,South,Georgia,Consumer,Standard Class,124.36,17.67,82.02,148.33,42.34,2016,2016-02
+2016-07-14,West,California,Home Office,Standard Class,109.95,12.59,69.9,129.51,40.05,2016,2016-07
+2016-11-08,East,New Mexico,Home Office,Standard Class,566.26,9.41,458.92,577.73,107.34,2016,2016-11
+2017-12-05,West,California,Home Office,Standard Class,510.04,16.28,407.28,443.35,102.76,2017,2017-12
+2017-03-18,East,Maryland,Home Office,First Class,498.82,21.18,374.69,609.79,124.13,2017,2017-03
+2016-06-25,Central,Colorado,Consumer,Second Class,140.07,20.15,102.29,141.24,37.78,2016,2016-06
